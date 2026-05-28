@@ -881,56 +881,76 @@ window.JSMaps.maps.florida = {
 			"path": "M252.2,39.7 L281.4,41.9 L305.2,43.7 L303.1,45.2 L303.5,48.1 L296.2,55.3 L294.3,64.1 L292.1,66.8 L283.0,67.9 L271.2,74.3 L268.1,74.3 L268.2,71.2 L265.1,71.1 L265.2,66.5 L259.1,66.5 L259.2,60.2 L256.1,58.6 L250.0,58.5 L250.1,50.8 L245.6,50.6 L247.9,49.3 L252.7,41.1 Z"
 		}
 	],
-	"pins": [
-		{
-			"name": "Sample pin",
-			"xPos": 500,
-			"yPos": 344,
-			"color": "#ffc90e",
-			"hoverColor": "#3D6F7A",
-			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io",
-			"text": "<h1>Sample pin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
-		}
-	]
-	"markers": [
+"markers": [
   {
     "name": "CDS Family & Behavioral Health",
     "lat": 29.6766,
     "lng": -82.3735,
-    "text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br>Shelter Phone Number: 352-244-0618</p>",
-    "color": "#E06026"
+    "text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br>352-244-0618</p>",
+    "color": "#EFD78D"
   },
   {
     "name": "Anchorage Children's House",
     "lat": 30.1966,
     "lng": -85.6485,
-    "text": "<h1>Anchorage Children's House</h1><p>2121 Lisenby Ave, Panama City, FL 32405<br>Shelter Number: 850-784-1020, Non Res Number: 850-763-7102</p>",
-    "color": "#E06026"
+    "text": "<h1>Anchorage Children's House</h1><p>2121 Lisenby Ave, Panama City, FL 32405<br>850-784-1020</p>",
+    "color": "#EFD78D"
   },
   {
     "name": "Crosswinds Youth Services",
-    "lat": 28.3730282,
-    "lng": -80.7514695,
-    "text": "<h1>Crosswinds Youth Services</h1><p>1407 Dixon Blvd, Cocoa, FL 32922<br>Shelter Phone Number: 321-452-0800</p>",
-    "color": "#E06026"
+    "lat": 28.373028,
+    "lng": -80.751469,
+    "text": "<h1>Crosswinds Youth Services</h1><p>1407 Dixon Blvd, Cocoa, FL 32922<br>321-452-0800</p>",
+    "color": "#EFD78D"
   },
   {
-    "name": "Prevention Central",
-    "lat": 26.136378,
-    "lng": -80.156851,
-    "text": "<h1>Prevention Central</h1><p>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br>Phone Number: 954-763-5010</p>",
-    "color": "#E06026"
+    "name": "Youth Crisis Center",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "text": "<h1>Youth Crisis Center</h1><p>Jacksonville, FL<br>904-725-6662</p>",
+    "color": "#EFD78D"
   },
   {
-    "name": "Lutheran Services Florida- Southeast",
-    "lat": 26.1802778,
-    "lng": -80.1486487,
-    "text": "<h1>Lutheran Services Florida- Southeast</h1><p>221 NW 43rd Ct, Oakland Park, FL 33309<br>Shelter Phone Number: 954-568-2801<br>Non Res Phone Number: 954-486-4222</p>",
-    "color": "#E06026"
+    "name": "Children's Home Society",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "text": "<h1>Children's Home Society</h1><p>Tampa, FL<br>813-237-3110</p>",
+    "color": "#EFD78D"
+  },
+  {
+    "name": "SafePlace2B",
+    "lat": 26.1224,
+    "lng": -80.1373,
+    "text": "<h1>SafePlace2B</h1><p>Fort Lauderdale, FL<br>954-567-3113</p>",
+    "color": "#EFD78D"
+  },
+  {
+    "name": "Orange County Youth Shelter",
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "text": "<h1>Orange County Youth Shelter</h1><p>Orlando, FL<br>407-836-6600</p>",
+    "color": "#EFD78D"
+  },
+  {
+    "name": "Seminole County Youth Shelter",
+    "lat": 28.8003,
+    "lng": -81.2731,
+    "text": "<h1>Seminole County Youth Shelter</h1><p>Sanford, FL<br>407-665-5208</p>",
+    "color": "#EFD78D"
+  },
+  {
+    "name": "Volusia Family Resource Center",
+    "lat": 29.2108,
+    "lng": -81.0228,
+    "text": "<h1>Volusia Family Resource Center</h1><p>Daytona Beach, FL<br>386-255-2102</p>",
+    "color": "#EFD78D"
+  },
+  {
+    "name": "St. Johns Youth Services",
+    "lat": 29.9012,
+    "lng": -81.3124,
+    "text": "<h1>St. Johns Youth Services</h1><p>St. Augustine, FL<br>904-829-2470</p>",
+    "color": "#EFD78D"
   }
-
-  // ⚠️ I stopped here for readability in chat
-  // You have 35 more markers ready to go
 ]
 }
