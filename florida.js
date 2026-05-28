@@ -758,7 +758,10 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#3D6F7A",
 			"selectedColor": "#E06026",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Alachua</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Alachua</h1><p>
+				CDS Family & Behavioral Health Services, Inc. Interface Central
+1400 NW 29 Rd, Gainesville, FL 32605
+352-244-0618 </p>",
 			"path": "M508.3,147.8 L508.3,153.0 L508.2,173.9 L508.3,177.0 L501.1,177.7 L499.6,179.6 L493.7,178.1 L493.9,172.5 L475.9,172.4 L462.0,172.9 L461.9,166.8 L452.8,166.9 L452.8,163.9 L452.9,152.1 L452.8,135.9 L455.0,135.5 L459.4,131.9 L460.4,127.1 L464.7,124.2 L466.4,123.8 L474.9,126.2 L477.7,130.5 L482.5,130.8 L488.3,134.6 L495.9,134.1 L501.1,135.4 L503.3,141.0 L506.1,141.7 Z"
 		},
 		{
