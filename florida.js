@@ -757,10 +757,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#3D6F7A",
 			"selectedColor": "#E06026",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Alachua</h1><p>
-				CDS Family & Behavioral Health Services, Inc. Interface Central
-1400 NW 29 Rd, Gainesville, FL 32605
-352-244-0618 </p>",
+			"text": "<h1>Alachua</h1><p>8 </p>",
 			"path": "M508.3,147.8 L508.3,153.0 L508.2,173.9 L508.3,177.0 L501.1,177.7 L499.6,179.6 L493.7,178.1 L493.9,172.5 L475.9,172.4 L462.0,172.9 L461.9,166.8 L452.8,166.9 L452.8,163.9 L452.9,152.1 L452.8,135.9 L455.0,135.5 L459.4,131.9 L460.4,127.1 L464.7,124.2 L466.4,123.8 L474.9,126.2 L477.7,130.5 L482.5,130.8 L488.3,134.6 L495.9,134.1 L501.1,135.4 L503.3,141.0 L506.1,141.7 Z"
 		},
 		{
@@ -886,71 +883,209 @@ window.JSMaps.maps.florida = {
     "name": "CDS Family & Behavioral Health",
     "lat": 29.6766,
     "lng": -82.3735,
-    "text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br>352-244-0618</p>",
-    "color": "#EFD78D"
+    "text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br>Shelter Phone Number: 352-244-0618</p>",
+    "color": "#E06026"
   },
   {
     "name": "Anchorage Children's House",
     "lat": 30.1966,
     "lng": -85.6485,
-    "text": "<h1>Anchorage Children's House</h1><p>2121 Lisenby Ave, Panama City, FL 32405<br>850-784-1020</p>",
-    "color": "#EFD78D"
+    "text": "<h1>Anchorage Children's House</h1><p>2121 Lisenby Ave, Panama City, FL 32405<br>Shelter Number: 850-784-1020, Non Res Number: 850-763-7102</p>",
+    "color": "#E06026"
   },
   {
     "name": "Crosswinds Youth Services",
-    "lat": 28.373028,
-    "lng": -80.751469,
-    "text": "<h1>Crosswinds Youth Services</h1><p>1407 Dixon Blvd, Cocoa, FL 32922<br>321-452-0800</p>",
-    "color": "#EFD78D"
+    "lat": 28.3730282,
+    "lng": -80.7514695,
+    "text": "<h1>Crosswinds Youth Services</h1><p>1407 Dixon Blvd, Cocoa, FL 32922<br>Shelter Phone Number: 321-452-0800</p>",
+    "color": "#E06026"
+  },
+  {
+    "name": "Prevention Central",
+    "lat": 26.136378,
+    "lng": -80.156851,
+    "text": "<h1>Prevention Central</h1><p>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br>Phone Number: 954-763-5010</p>",
+    "color": "#E06026"
+  },
+  {
+    "name": "Lutheran Services Florida- Southeast",
+    "lat": 26.1802778,
+    "lng": -80.1486487,
+    "text": "<h1>Lutheran Services Florida- Southeast</h1><p>221 NW 43rd Ct, Oakland Park, FL 33309<br>Shelter Phone Number: 954-568-2801<br>Non Res Phone Number: 954-486-4222</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "CDS Family & Behavioral Health",
+    "lat": 30.173786,
+    "lng": -82.665453,
+    "text": "<h1>CDS Family & Behavioral Health</h1><p>1884 SW Grandview St, Lake City, FL 32025<br>Shelter Phone Number: 386-487-0190</p>",
+    "color": "#E06026"
+  },
+  {
+    "name": "Thaise Educational & Exposure Tours",
+    "lat": 30.33683,
+    "lng": -81.67494,
+    "text": "<h1>Thaise Educational & Exposure Tours</h1><p>728 Blanche St, Jacksonville, FL 32204<br>Shelter Phone Number: 904-513-3972</p>",
+    "color": "#E06026"
   },
   {
     "name": "Youth Crisis Center",
-    "lat": 30.3322,
-    "lng": -81.6557,
-    "text": "<h1>Youth Crisis Center</h1><p>Jacksonville, FL<br>904-725-6662</p>",
-    "color": "#EFD78D"
+    "lat": 30.2934,
+    "lng": -81.5978,
+    "text": "<h1>Youth Crisis Center</h1><p>3015 Parental Home Rd, Jacksonville, FL 32216<br>Shelter Phone Number: 904-725-6662</p>",
+    "color": "#E06026"
   },
+  {
+    "name": "Lutheran Services Florida",
+    "lat": 30.43329,
+    "lng": -87.29262,
+    "text": "<h1>Lutheran Services Florida</h1><p>4610 W Fairfield Dr, Pensacola, FL 32506<br>Shelter Number: 850-453-2772</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Youth and Family Alternatives",
+    "lat": 28.277161,
+    "lng": -82.73323,
+    "text": "<h1>Youth and Family Alternatives</h1><p>18377 Sheriff Mylander Wy, Brooksville, FL 34601<br>Shelter Phone Number: 352-540-601</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Hillsborough County Children's Services",
+    "lat": 28.069384,
+    "lng": -82.494929,
+    "text": "<h1>Hillsborough County Children's Services</h1><p>3191 Clay Mangum Ln, Tampa, FL 33618<br>Shelter Phone Number: 813-264-3807</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Tampa Housing Authority",
+    "lat": 27.95247,
+    "lng": -82.532492,
+    "text": "<h1>Tampa Housing Authority</h1><p>5301 W Cypress St, Tampa, FL 33607<br>813-341-9101</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Youth Advocate Program",
+    "lat": 27.9626176,
+    "lng": -82.434648,
+    "text": "<h1>Youth Advocate Program</h1><p>2115 N 22nd St, Tampa, FL 33605<br>813-712-9695</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Lutheran Services Florida Southwest",
+    "lat": 26.6104419,
+    "lng": -81.8639615,
+    "text": "<h1>Lutheran Services Florida Southwest</h1><p>3642 Central Ave, Fort Myers, FL 33901<br>239-278-1030</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Capital City Youth Services (CCYS)",
+    "lat": 30.428808,
+    "lng": -84.326352,
+    "text": "<h1>Capital City Youth Services (CCYS)</h1><p>2407 Roberts Ave, Tallahassee, FL 32310<br>850-576-6000</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Family Resources",
+    "lat": 27.4919089,
+    "lng": -82.571883,
+    "text": "<h1>Family Resources</h1><p>1001 9th Ave W, Bradenton, FL 34205<br>941-708-5850</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Arnette House",
+    "lat": 29.2084,
+    "lng": -81.1009,
+    "text": "<h1>Arnette House</h1><p>2310 NE 24th St, Ocala, FL 34470<br>352-622-6135</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Miami Bridge Youth and Family Services, Inc.",
+    "lat": 25.4730245,
+    "lng": -80.4832666,
+    "text": "<h1>Miami Bridge Youth and Family Services, Inc.</h1><p>326 NW 3rd Ave, Homestead, FL 33030<br>305-246-8956</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Center for Family & Child Enrichment",
+    "lat": 25.9272702,
+    "lng": -80.2310901,
+    "text": "<h1>Center for Family & Child Enrichment</h1><p>1825 NW 167th St, Miami Gardens, FL 33056<br>305-624-7450</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Miami Bridge Youth and Family Services, Inc.",
+    "lat": 25.7931094,
+    "lng": -80.2417592,
+    "text": "<h1>Miami Bridge Youth and Family Services, Inc.</h1><p>2810 NW S River Dr, Miami, FL 33125<br>305-635-8953</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Nehemiah Educational and Economic Development Inc.",
+    "lat": 28.605019,
+    "lng": -81.385655,
+    "text": "<h1>Nehemiah Educational and Economic Development Inc.</h1><p>611 Wymore Rd, Winter Park, FL 32789<br>407-622-6200</p>",
+    "color": "#E06026"
+  },
+
+  {
+    "name": "Orange County Family Counseling Services",
+    "lat": 28.513147,
+    "lng": -81.357292,
+    "text": "<h1>Orange County Family Counseling Services</h1><p>1800 E Michigan St, Orlando, FL 32806<br>407-836-7626</p>",
+    "color": "#E06026"
+  },
+
   {
     "name": "Children's Home Society",
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "text": "<h1>Children's Home Society</h1><p>Tampa, FL<br>813-237-3110</p>",
-    "color": "#EFD78D"
+    "lat": 26.6509947,
+    "lng": -80.093715,
+    "text": "<h1>Children's Home Society</h1><p>3335 Forest Hill Blvd, Palm Springs, FL 33406<br>561-868-4444</p>",
+    "color": "#E06026"
   },
+
   {
-    "name": "SafePlace2B",
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "text": "<h1>SafePlace2B</h1><p>Fort Lauderdale, FL<br>954-567-3113</p>",
-    "color": "#EFD78D"
+    "name": "Center for Child Counseling",
+    "lat": 26.806509,
+    "lng": -80.106357,
+    "text": "<h1>Center for Child Counseling</h1><p>8895 N Military Trl, West Palm Beach, FL<br>561-244-9499</p>",
+    "color": "#E06026"
   },
+
   {
-    "name": "Orange County Youth Shelter",
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "text": "<h1>Orange County Youth Shelter</h1><p>Orlando, FL<br>407-836-6600</p>",
-    "color": "#EFD78D"
+    "name": "Family Resources",
+    "lat": 27.997236,
+    "lng": -82.771588,
+    "text": "<h1>Family Resources</h1><p>1615 Union St, Clearwater, FL 33755<br>727-298-1606</p>",
+    "color": "#E06026"
   },
+
   {
-    "name": "Seminole County Youth Shelter",
-    "lat": 28.8003,
-    "lng": -81.2731,
-    "text": "<h1>Seminole County Youth Shelter</h1><p>Sanford, FL<br>407-665-5208</p>",
-    "color": "#EFD78D"
+    "name": "Safe Children Coalition",
+    "lat": 27.341406,
+    "lng": -82.513607,
+    "text": "<h1>Safe Children Coalition</h1><p>2841 6th St, Sarasota, FL 34237<br>941-955-5596</p>",
+    "color": "#E06026"
   },
+
   {
-    "name": "Volusia Family Resource Center",
-    "lat": 29.2108,
-    "lng": -81.0228,
-    "text": "<h1>Volusia Family Resource Center</h1><p>Daytona Beach, FL<br>386-255-2102</p>",
-    "color": "#EFD78D"
-  },
-  {
-    "name": "St. Johns Youth Services",
-    "lat": 29.9012,
-    "lng": -81.3124,
-    "text": "<h1>St. Johns Youth Services</h1><p>St. Augustine, FL<br>904-829-2470</p>",
-    "color": "#EFD78D"
+    "name": "SMA Healthcare Inc.",
+    "lat": 29.146087,
+    "lng": -81.151742,
+    "text": "<h1>SMA Healthcare Inc.</h1><p>3875 Tiger Bay Rd, Daytona Beach, FL 32124<br>386-236-3111</p>",
+    "color": "#E06026"
   }
 ]
 }
