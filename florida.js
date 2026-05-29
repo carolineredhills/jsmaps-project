@@ -17,7 +17,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Walton</h1><p>Insert Addresses Here.</p>",
+			"text": "<h1>Walton</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M114.2,5.3 L132.5,6.0 L146.4,6.6 L145.0,37.1 L162.7,37.9 L159.7,40.3 L160.5,42.0 L156.0,44.7 L155.8,48.9 L158.9,53.3 L158.1,57.1 L160.7,59.6 L156.5,65.1 L151.8,64.9 L148.6,67.0 L148.0,70.6 L148.0,70.6 L147.5,78.6 L147.2,82.8 L140.9,79.1 L113.8,70.2 L110.9,69.8 L111.0,68.3 L111.0,67.6 L115.5,68.8 L118.5,64.6 L121.0,68.0 L125.1,69.1 L126.0,65.0 L129.7,67.9 L136.5,71.2 L137.6,69.0 L133.7,62.9 L135.0,60.2 L130.9,61.5 L128.8,57.7 L127.2,58.9 L121.5,58.2 L112.6,59.8 L111.5,60.8 L112.6,37.0 Z"
 		},
 		{
@@ -30,7 +30,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Monroe</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Monroe</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M546.7,688.4 L547.1,690.2 L539.8,692.3 L541.2,687.9 Z M563.5,680.0 L563.4,682.4 L559.6,679.8 L560.1,677.3 Z M601.8,676.9 L599.7,676.2 L596.6,676.2 L605.9,673.2 Z M576.9,682.6 L574.8,684.3 L574.7,681.1 L568.3,671.3 L572.4,674.1 L575.5,678.5 Z M613.6,671.6 L606.5,674.7 L614.0,669.5 L617.0,668.8 Z M628.7,663.3 L628.7,665.1 L623.6,665.8 L628.8,661.5 Z M604.3,615.9 L602.9,616.0 L602.3,612.5 L605.2,612.8 Z M571.5,560.7 L570.4,561.7 L569.5,560.7 L570.8,560.7 Z M572.8,560.7 L574.2,562.8 L572.4,560.7 L572.6,560.7 Z M625.3,626.9 L624.7,626.8 L624.4,626.5 L624.7,626.6 Z M628.6,629.4 L627.2,629.0 L627.5,627.3 L629.1,626.4 Z M631.2,629.7 L629.2,628.2 L628.7,629.2 L629.2,627.7 Z M634.9,629.8 L634.8,629.8 L634.8,629.8 Z M637.3,629.4 L637.1,629.6 L635.3,629.8 L633.8,627.6 Z M637.8,628.8 L637.9,628.8 L638.0,628.8 L637.7,629.1 Z M640.1,627.3 L639.0,627.8 L638.4,628.4 L638.8,627.3 Z M642.6,627.6 L641.7,628.1 L640.5,627.4 L642.1,627.1 Z M642.4,625.4 L642.5,625.9 L642.7,626.4 L641.8,626.5 Z M644.8,624.1 L644.8,624.1 L644.9,624.0 L645.0,624.0 Z M645.5,623.9 L645.6,623.9 L645.6,623.8 L645.7,623.9 Z M647.3,624.5 L645.6,624.4 L646.3,623.7 L647.2,623.5 Z M657.3,623.2 L656.7,623.6 L654.9,621.6 L655.5,621.3 Z M657.3,622.5 L657.7,622.8 L657.7,623.0 L657.5,622.8 L657.2,622.6 Z M657.8,622.9 L657.9,622.8 L657.9,622.9 L657.8,622.9 Z M657.8,621.5 L661.3,622.6 L658.4,622.5 L657.8,622.0 Z M657.7,621.2 L657.7,621.0 L657.8,620.8 L658.1,620.8 Z M664.5,619.7 L665.2,623.8 L662.0,619.4 L662.9,619.0 Z M679.1,607.4 L680.7,608.0 L680.8,608.1 L680.9,608.3 L677.2,614.7 L671.4,622.9 L670.7,627.8 L662.9,635.6 L660.9,635.9 L658.6,640.6 L650.1,650.1 L647.6,649.0 L651.1,647.6 L652.2,643.9 L655.0,642.5 L663.8,630.9 L661.3,628.2 L665.7,629.1 L667.5,624.5 L671.0,620.6 L671.6,616.9 L670.4,613.8 L674.7,612.2 L677.8,608.0 Z M632.9,628.2 L632.3,628.5 L632.3,628.5 Z M631.4,629.0 L631.9,628.2 L632.3,628.5 L632.3,628.5 Z M559.0,685.1 L559.1,682.6 L556.3,682.2 L556.3,678.4 L561.0,683.5 L558.6,686.0 L548.4,689.4 L556.3,684.3 Z M623.0,625.6 L618.0,629.8 L612.5,630.2 L601.1,632.4 L595.0,627.8 L592.3,621.3 L592.4,618.0 L595.0,610.4 L598.5,611.4 L601.8,616.5 L610.7,620.4 L610.5,623.3 L614.6,622.8 L616.1,617.8 L611.1,611.6 L600.1,608.2 L594.9,603.6 L592.8,595.2 L588.5,589.7 L591.3,587.0 L586.9,585.9 L582.2,571.1 L578.2,570.8 L574.8,565.9 L578.2,562.8 L576.5,560.7 L599.3,560.5 L621.0,560.2 L621.4,606.7 L622.4,606.7 Z"
 		},
 		{
@@ -56,7 +56,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hendry</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Hendry</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M613.2,458.6 L618.7,438.5 L619.1,476.9 L619.7,504.4 L619.8,508.1 L619.9,512.3 L619.9,512.3 L583.0,513.2 L582.5,485.4 L554.8,485.9 L554.5,467.5 L554.5,458.9 L554.5,458.9 Z"
 		},
 		{
@@ -69,7 +69,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Glades</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Glades</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M613.2,458.6 L554.5,458.9 L554.5,458.9 L554.7,433.6 L554.7,431.0 L582.6,431.0 L582.5,421.6 L591.9,421.5 L591.8,412.2 L613.1,412.0 L616.2,415.7 L619.9,417.8 L618.7,438.5 Z"
 		},
 		{
@@ -95,7 +95,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Franklin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Franklin</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M229.0,147.5 L226.7,152.9 L222.9,151.7 L217.3,146.8 L222.8,147.4 L224.2,146.3 Z M273.2,137.6 L268.1,138.6 L274.7,134.6 L275.3,136.5 Z M279.7,114.3 L282.4,116.7 L287.3,116.1 L286.8,116.8 L287.5,116.8 L287.5,118.3 L288.6,118.0 L289.6,119.6 L298.0,121.5 L297.4,126.2 L288.8,123.9 L283.8,124.9 L282.8,123.8 L273.8,129.7 L269.3,130.8 L261.7,137.1 L256.7,138.4 L247.5,143.3 L247.1,141.4 L250.4,136.2 L248.9,135.4 L239.8,141.0 L236.6,144.5 L225.6,143.6 L216.9,146.1 L218.0,144.5 L227.1,137.8 L229.8,138.7 L233.5,137.7 L235.4,134.8 L232.6,123.8 L235.4,117.5 L237.1,113.0 Z M237.9,154.6 L257.8,145.7 L258.4,144.4 L265.4,140.9 L256.5,147.1 L247.2,150.9 L239.5,155.6 L231.7,155.6 Z"
 		},
 		{
@@ -121,7 +121,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Okeechobee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Okeechobee</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M601.2,366.5 L619.3,366.4 L619.3,366.4 L628.2,366.2 L628.4,375.1 L637.5,375.0 L638.0,402.9 L638.1,412.2 L638.2,421.1 L618.7,438.5 L619.9,417.8 L616.2,415.7 L613.1,412.0 L610.5,411.3 L608.3,407.7 L607.8,403.1 L605.3,402.4 L603.2,398.4 L604.3,396.4 L599.9,393.6 L598.3,394.3 L594.1,390.9 L594.4,388.6 L590.4,383.6 L588.2,382.7 L587.5,379.0 L594.2,370.9 L594.0,366.5 Z"
 		},
 		{
@@ -160,7 +160,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Indian River</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Indian River</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M668.0,374.8 L642.7,375.0 L637.5,375.0 L628.4,375.1 L628.2,366.2 L619.3,366.4 L619.3,366.4 L619.1,356.7 L618.3,347.4 L619.5,347.4 L653.2,347.1 L656.2,343.6 L665.5,363.4 Z M671.6,374.7 L671.1,374.8 L670.1,374.8 L668.7,369.0 L666.2,364.4 L664.4,356.9 L662.6,353.9 L658.6,343.8 L659.9,343.0 L661.4,348.7 L667.2,359.6 L669.6,369.6 Z"
 		},
 		{
@@ -173,7 +173,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Martin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Martin</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M675.1,411.3 L678.3,413.0 L681.2,412.2 L685.4,417.5 L688.1,418.7 L695.3,436.4 L689.0,436.4 L689.0,437.9 L665.8,438.0 L618.7,438.5 L638.2,421.1 L638.1,412.2 L675.1,411.8 Z M680.4,405.7 L683.4,412.7 L675.1,409.0 L675.1,405.7 Z M683.6,405.6 L686.3,412.6 L683.4,409.8 L682.3,405.7 L683.1,405.6 Z"
 		},
 		{
@@ -186,7 +186,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Collier</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Collier</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M564.4,554.2 L565.8,557.7 L563.1,556.1 L559.5,554.8 Z M544.3,550.5 L545.8,552.0 L542.4,554.2 L541.2,550.7 Z M583.0,513.2 L619.9,512.3 L620.3,526.4 L620.8,541.8 L620.8,549.3 L621.0,560.2 L599.3,560.5 L576.5,560.7 L571.0,555.6 L567.0,554.6 L562.5,550.6 L561.2,551.9 L549.4,545.6 L545.6,548.7 L542.9,547.1 L540.2,549.7 L537.9,544.5 L542.5,546.3 L545.4,542.0 L539.8,541.2 L539.5,537.7 L535.3,532.9 L533.6,525.3 L532.4,529.7 L530.6,522.1 L529.8,513.8 L530.3,509.2 L528.1,505.2 L530.6,506.7 L545.9,506.6 L545.7,495.6 L555.0,495.4 L554.8,485.9 L582.5,485.4 Z M572.4,560.7 L572.7,560.5 L572.8,560.7 L572.6,560.7 Z M569.5,560.7 L566.9,560.7 L566.8,556.6 L569.5,556.5 L573.5,560.0 L571.5,560.7 L570.8,560.7 Z"
 		},
 		{
@@ -199,7 +199,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hardee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Hardee</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M554.4,366.3 L554.5,386.4 L554.5,398.6 L526.7,398.7 L526.7,399.1 L508.1,398.9 L508.2,384.7 L508.3,366.4 L534.4,366.4 Z"
 		},
 		{
@@ -212,7 +212,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Highlands</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Highlands</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M554.5,398.6 L554.5,386.4 L554.4,366.3 L583.9,366.3 L594.0,366.5 L594.2,370.9 L587.5,379.0 L588.2,382.7 L590.4,383.6 L594.4,388.6 L594.1,390.9 L598.3,394.3 L599.9,393.6 L604.3,396.4 L603.2,398.4 L605.3,402.4 L607.8,403.1 L608.3,407.7 L610.5,411.3 L613.1,412.0 L591.8,412.2 L591.9,421.5 L582.5,421.6 L582.6,431.0 L554.7,431.0 L554.7,419.0 Z"
 		},
 		{
@@ -225,7 +225,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>DeSoto</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>DeSoto</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M554.5,398.6 L554.7,419.0 L554.7,431.0 L515.0,430.9 L508.0,431.2 L508.0,431.2 L508.0,431.2 L508.0,421.4 L508.1,412.7 L508.1,405.6 L508.1,398.9 L526.7,399.1 L526.7,398.7 Z"
 		},
 		{
@@ -238,7 +238,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Charlotte</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Charlotte</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M515.0,430.9 L554.7,431.0 L554.7,433.6 L554.5,458.9 L536.0,458.9 L507.0,458.8 L508.0,448.8 L504.2,444.2 L514.3,438.2 L515.4,435.0 L511.8,437.5 L504.6,439.3 L498.7,442.2 L496.3,437.5 L492.4,438.3 L489.3,433.8 L489.3,431.1 L508.0,431.2 L508.0,431.2 L508.0,431.2 L508.0,431.2 Z M478.7,440.2 L480.4,444.4 L477.5,440.3 L478.2,440.3 Z M486.9,456.8 L487.0,454.6 L488.1,456.8 L487.8,456.8 Z M479.9,440.3 L489.2,440.4 L489.3,436.2 L494.4,440.5 L498.3,449.1 L499.2,455.4 L497.7,457.2 L496.6,453.1 L494.6,455.4 L491.1,454.4 L483.7,450.5 L481.0,441.4 Z"
 		},
 		{
@@ -277,7 +277,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Wakulla</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Wakulla</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M287.5,116.8 L288.3,116.9 L288.6,118.0 L287.5,118.3 Z M287.3,116.1 L282.4,116.7 L279.7,114.3 L275.4,112.3 L272.3,108.8 L268.5,102.0 L268.7,96.0 L266.1,89.3 L263.6,88.0 L264.9,83.5 L307.5,84.0 L308.1,87.1 L323.3,87.5 L323.1,94.2 L322.9,106.5 L316.3,107.0 L313.4,108.5 L311.2,105.0 L305.9,105.5 L303.6,109.0 L299.6,109.0 L294.5,112.5 L296.5,118.8 L288.0,115.1 Z"
 		},
 		{
@@ -290,7 +290,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Washington</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Washington</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M148.6,67.0 L151.8,64.9 L156.5,65.1 L160.7,59.6 L158.1,57.1 L158.9,53.3 L155.8,48.9 L156.0,44.7 L160.5,42.0 L159.7,40.3 L162.7,37.9 L164.8,34.2 L165.1,28.7 L171.4,29.0 L172.7,33.7 L183.4,34.3 L185.4,25.2 L196.1,25.6 L196.0,30.2 L200.6,30.4 L199.6,53.4 L194.9,53.3 L194.3,67.1 L160.9,65.6 L158.0,68.7 L150.6,68.4 L148.0,70.6 L148.0,70.6 Z"
 		},
 		{
@@ -316,7 +316,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Bradford</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Bradford</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M508.9,147.8 L508.4,147.8 L508.3,147.8 L506.1,141.7 L503.3,141.0 L501.1,135.4 L495.9,134.1 L488.3,134.6 L482.5,130.8 L477.7,130.5 L474.9,126.2 L481.4,124.2 L481.9,122.2 L485.1,122.7 L489.5,115.1 L492.7,114.5 L499.9,106.5 L500.3,103.0 L504.3,103.0 L508.9,103.0 L509.1,144.8 Z"
 		},
 		{
@@ -355,7 +355,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Baker</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Baker</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M508.9,89.3 L508.9,92.4 L508.9,98.4 L508.9,102.4 L508.9,103.0 L504.3,103.0 L500.3,103.0 L480.4,103.2 L471.3,103.6 L471.5,91.8 L471.4,56.4 L493.8,58.1 L491.4,61.3 L495.0,66.9 L494.1,73.2 L497.7,80.1 L503.8,79.2 L508.8,79.9 L508.8,87.3 Z"
 		},
 		{
@@ -368,7 +368,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Clay</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Clay</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M508.9,103.0 L508.9,102.4 L508.9,98.4 L542.8,98.0 L541.7,103.1 L542.7,105.3 L542.0,115.1 L550.1,122.7 L549.4,126.9 L551.9,134.9 L530.6,135.3 L526.1,139.2 L521.7,139.9 L519.0,144.8 L512.7,145.6 L508.9,147.8 L509.1,144.8 Z"
 		},
 		{
@@ -381,7 +381,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Jackson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Jackson</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M204.3,53.6 L202.2,53.5 L199.6,53.4 L200.6,30.4 L196.0,30.2 L196.1,25.6 L185.4,25.2 L187.9,18.1 L192.1,13.9 L192.4,10.2 L195.3,7.9 L218.4,8.2 L240.4,8.8 L240.1,11.7 L242.3,12.9 L241.9,15.7 L245.5,20.8 L246.9,25.6 L245.8,28.2 L248.0,35.4 L252.2,39.7 L252.7,41.1 L247.9,49.3 L245.6,50.6 L224.2,49.9 L223.6,54.5 Z"
 		},
 		{
@@ -420,7 +420,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Flagler</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Flagler</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M586.1,152.6 L589.2,161.6 L596.4,178.2 L591.4,180.0 L592.0,195.3 L567.3,195.9 L566.9,181.3 L565.7,181.4 L561.6,181.4 L560.8,176.5 L557.6,170.8 L557.3,157.9 L575.7,157.4 L581.3,153.1 Z"
 		},
 		{
@@ -433,7 +433,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Gulf</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Gulf</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M218.4,92.7 L227.7,93.1 L227.7,93.1 L225.4,96.9 L226.0,98.8 L223.9,104.5 L225.5,105.1 L225.5,109.6 L227.4,111.8 L232.8,114.2 L235.4,117.5 L232.6,123.8 L235.4,134.8 L233.5,137.7 L229.8,138.7 L227.1,137.8 L218.0,144.5 L216.9,146.1 L208.6,146.1 L205.0,147.6 L200.9,143.5 L199.4,134.6 L199.3,129.1 L201.0,127.9 L200.7,137.6 L204.5,146.0 L209.2,144.2 L209.4,135.1 L204.7,125.3 L201.7,121.5 L201.8,113.5 L202.0,108.8 L202.0,108.8 L202.4,98.2 L202.6,92.3 Z"
 		},
 		{
@@ -446,7 +446,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Jefferson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Jefferson</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M330.6,107.7 L327.7,105.2 L322.9,106.5 L323.1,94.2 L323.3,87.5 L323.6,70.5 L326.7,67.5 L326.9,61.3 L332.7,61.4 L330.1,52.2 L330.2,45.5 L360.4,47.9 L366.3,48.3 L366.9,55.7 L363.8,58.7 L357.7,60.1 L354.7,63.3 L355.9,71.1 L352.6,76.2 L348.1,77.6 L349.8,81.8 L346.7,84.7 L345.8,86.4 L337.9,90.7 L336.4,96.7 L334.5,96.9 Z"
 		},
 		{
@@ -524,7 +524,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Santa Rosa</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Santa Rosa</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M43.7,70.6 L44.0,70.5 L43.9,70.5 L43.7,70.6 Z M36.3,71.3 L36.8,71.3 L36.6,71.3 L36.5,71.3 Z M37.4,71.3 L41.0,70.9 L39.0,71.9 L39.0,71.9 L39.0,71.9 L39.0,71.9 L39.0,72.0 L38.5,72.0 Z M39.0,71.9 L39.0,71.9 L39.0,71.9 L39.0,71.9 Z M73.9,69.2 L63.0,70.1 L63.0,68.8 L63.0,67.9 L67.1,66.8 L74.0,66.9 L73.9,68.3 Z M51.9,68.9 L53.5,68.4 L56.0,68.5 L54.0,68.6 Z M43.3,70.6 L43.0,70.7 L42.8,70.7 L42.5,70.7 Z M37.0,71.3 L37.0,71.3 L36.9,71.3 Z M43.7,1.8 L45.7,1.8 L78.0,3.5 L75.6,42.7 L74.2,65.0 L51.6,66.7 L42.4,68.8 L37.7,69.2 L43.0,66.0 L48.6,64.7 L55.3,64.7 L61.5,60.0 L65.6,62.1 L62.9,58.7 L58.5,57.3 L54.9,52.9 L57.6,48.6 L54.8,45.6 L50.6,55.5 L49.8,59.1 L47.4,60.2 L47.8,55.8 L45.0,48.4 L40.1,45.5 L39.8,49.7 L37.2,48.5 L33.0,42.4 L32.6,31.7 L29.6,30.7 L29.1,23.6 L30.9,20.9 L29.2,17.2 L32.1,13.0 L32.0,9.1 L34.9,8.5 L37.4,4.8 Z"
 		},
 		{
@@ -550,7 +550,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Nassau</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Nassau</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M508.9,89.3 L508.8,87.3 L508.8,79.9 L509.3,75.5 L511.8,68.0 L511.7,62.8 L512.8,57.2 L508.8,46.9 L510.1,43.6 L510.0,38.5 L512.3,37.7 L511.4,34.9 L515.5,36.1 L516.6,31.9 L522.1,30.7 L524.2,33.7 L532.3,35.1 L539.1,39.5 L545.2,39.9 L549.3,42.2 L555.5,43.2 L558.9,41.6 L559.1,43.7 L564.4,44.0 L565.5,46.0 L564.7,50.7 L564.8,62.7 L562.5,60.1 L561.6,53.6 L559.2,52.8 L558.9,58.5 L555.1,62.7 L552.0,61.3 L551.5,58.5 L547.7,56.2 L543.7,58.9 L538.8,57.7 L537.3,61.7 L532.1,64.8 L528.8,68.8 Z"
 		},
 		{
@@ -563,7 +563,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Liberty</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Liberty</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M271.2,74.3 L264.8,80.0 L264.9,83.5 L263.6,88.0 L266.1,89.3 L268.7,96.0 L268.5,102.0 L272.3,108.8 L275.4,112.3 L279.7,114.3 L237.1,113.0 L235.4,117.5 L232.8,114.2 L227.4,111.8 L225.5,109.6 L225.5,105.1 L223.9,104.5 L226.0,98.8 L225.4,96.9 L227.7,93.1 L233.1,86.6 L234.2,78.8 L236.2,76.3 L237.6,71.3 L235.9,70.0 L240.5,67.9 L239.1,66.3 L240.2,59.1 L245.6,50.6 L250.1,50.8 L250.0,58.5 L256.1,58.6 L259.2,60.2 L259.1,66.5 L265.2,66.5 L265.1,71.1 L268.2,71.2 L268.1,74.3 Z"
 		},
 		{
@@ -589,7 +589,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Gilchrist</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Gilchrist</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M430.2,136.3 L432.9,131.9 L432.5,129.7 L433.9,127.3 L439.8,125.0 L442.6,125.6 L442.7,128.7 L445.7,132.7 L449.6,135.4 L452.8,135.9 L452.9,152.1 L452.8,163.9 L443.6,164.1 L442.1,161.7 L426.9,160.9 L423.8,159.0 L425.2,155.9 L425.9,143.7 L428.7,136.3 L428.8,136.3 L428.9,136.3 L429.4,136.7 Z"
 		},
 		{
@@ -602,7 +602,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Lafayette</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Lafayette</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M432.5,129.7 L432.9,131.9 L430.2,136.3 L429.3,136.3 L428.9,136.3 L428.8,136.3 L428.7,136.3 L425.1,136.2 L392.0,136.1 L388.9,136.1 L389.0,129.2 L387.3,129.2 L388.1,89.9 L393.9,89.9 L399.1,90.0 L398.9,98.1 L400.9,105.4 L404.6,107.6 L406.9,106.0 L415.2,109.1 L415.5,110.8 L420.3,114.3 L421.3,116.6 L424.9,118.5 L426.0,122.1 L427.9,122.3 L429.5,127.8 Z"
 		},
 		{
@@ -628,7 +628,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Suwannee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Suwannee</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M439.8,125.0 L433.9,127.3 L432.5,129.7 L429.5,127.8 L427.9,122.3 L426.0,122.1 L424.9,118.5 L421.3,116.6 L420.3,114.3 L415.5,110.8 L415.2,109.1 L406.9,106.0 L404.6,107.6 L400.9,105.4 L398.9,98.1 L399.1,90.0 L402.6,84.6 L402.4,81.2 L406.3,76.9 L407.7,73.5 L414.7,71.4 L415.0,72.7 L421.8,72.4 L425.0,73.7 L430.3,77.6 L440.7,82.3 L440.5,119.3 L443.5,119.3 L443.4,121.6 Z"
 		},
 		{
@@ -654,7 +654,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Citrus</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Citrus</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M443.8,223.0 L449.4,219.9 L456.6,222.5 L458.3,220.3 L463.7,218.8 L469.5,218.1 L474.6,222.2 L479.4,223.3 L484.5,227.8 L488.0,234.4 L496.4,242.4 L497.5,245.8 L490.2,253.4 L488.9,258.7 L474.5,258.8 L474.5,255.8 L454.6,255.7 L453.9,249.3 L449.8,244.0 L451.0,242.4 L454.8,246.2 L454.1,242.0 L454.8,236.9 L453.6,234.0 L449.8,232.6 L445.9,227.7 L446.1,223.8 Z"
 		},
 		{
@@ -667,7 +667,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Levy</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Levy</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M463.7,218.8 L458.3,220.3 L456.6,222.5 L449.4,219.9 L443.8,223.0 L444.2,216.6 L439.7,212.0 L441.7,210.8 L439.4,208.7 L439.2,204.9 L436.6,206.4 L434.8,204.1 L430.8,205.3 L427.1,203.4 L418.6,204.8 L414.0,200.1 L415.2,198.2 L413.0,194.4 L406.5,191.1 L415.3,186.0 L414.9,183.9 L418.9,181.1 L418.6,178.9 L422.5,173.5 L423.3,166.1 L425.7,164.6 L426.9,160.9 L442.1,161.7 L443.6,164.1 L452.8,163.9 L452.8,166.9 L461.9,166.8 L462.0,172.9 L475.9,172.4 L476.1,200.8 L463.9,200.9 Z"
 		},
 		{
@@ -680,7 +680,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Holmes</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Holmes</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M195.3,7.9 L192.4,10.2 L192.1,13.9 L187.9,18.1 L185.4,25.2 L183.4,34.3 L172.7,33.7 L171.4,29.0 L165.1,28.7 L164.8,34.2 L162.7,37.9 L145.0,37.1 L146.4,6.6 L161.0,7.1 Z"
 		},
 		{
@@ -693,7 +693,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Madison</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Madison</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M406.3,76.9 L402.4,81.2 L402.6,84.6 L399.1,90.0 L393.9,89.9 L388.1,89.9 L378.8,89.8 L378.9,85.1 L346.7,84.7 L349.8,81.8 L348.1,77.6 L352.6,76.2 L355.9,71.1 L354.7,63.3 L357.7,60.1 L363.8,58.7 L366.9,55.7 L366.3,48.3 L376.5,49.1 L393.9,50.5 L397.2,51.2 L398.7,55.6 L398.2,59.1 L400.1,63.1 L399.7,67.6 L402.1,69.4 L401.7,72.6 L405.5,74.3 Z"
 		},
 		{
@@ -706,7 +706,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Dixie</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Dixie</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M430.2,136.3 L429.4,136.7 L428.9,136.3 L429.3,136.3 Z M406.5,191.1 L405.7,186.9 L401.1,179.7 L397.6,176.3 L395.3,176.7 L388.2,169.0 L383.8,166.7 L383.2,161.7 L385.0,156.0 L383.4,152.4 L386.8,152.6 L388.9,149.6 L389.5,144.5 L391.9,140.8 L392.0,136.1 L425.1,136.2 L428.7,136.3 L425.9,143.7 L425.2,155.9 L423.8,159.0 L426.9,160.9 L425.7,164.6 L423.3,166.1 L422.5,173.5 L418.6,178.9 L418.9,181.1 L414.9,183.9 L415.3,186.0 Z"
 		},
 		{
@@ -732,7 +732,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Lake</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Lake</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M572.2,236.2 L567.3,243.0 L567.8,246.2 L546.2,246.2 L545.1,248.2 L545.4,292.5 L545.4,292.5 L532.9,292.6 L532.9,290.9 L526.7,290.9 L526.7,292.6 L517.3,292.7 L517.7,267.9 L517.6,227.8 L545.1,227.8 L545.0,218.5 L546.9,218.5 L546.5,194.4 L549.3,202.2 L554.0,202.4 L556.8,204.9 L559.5,213.2 L562.8,213.3 L563.8,216.8 L568.8,220.1 L573.3,225.1 L573.1,235.3 Z"
 		},
 		{
@@ -771,7 +771,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Union</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Union</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M474.9,126.2 L466.4,123.8 L464.7,124.2 L460.5,118.9 L463.3,115.9 L465.8,110.0 L471.6,106.9 L471.3,103.6 L480.4,103.2 L500.3,103.0 L499.9,106.5 L492.7,114.5 L489.5,115.1 L485.1,122.7 L481.9,122.2 L481.4,124.2 Z"
 		},
 		{
@@ -784,7 +784,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Calhoun</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Calhoun</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M227.7,93.1 L218.4,92.7 L202.6,92.3 L203.4,69.0 L204.3,53.6 L223.6,54.5 L224.2,49.9 L245.6,50.6 L240.2,59.1 L239.1,66.3 L240.5,67.9 L235.9,70.0 L237.6,71.3 L236.2,76.3 L234.2,78.8 L233.1,86.6 Z"
 		},
 		{
@@ -797,7 +797,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Taylor</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Taylor</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M383.4,152.4 L378.3,150.8 L372.7,147.1 L368.2,141.9 L366.8,135.4 L358.9,125.3 L352.2,121.1 L349.2,117.9 L342.9,116.5 L330.6,107.7 L334.5,96.9 L336.4,96.7 L337.9,90.7 L345.8,86.4 L346.7,84.7 L378.9,85.1 L378.8,89.8 L388.1,89.9 L387.3,129.2 L389.0,129.2 L388.9,136.1 L392.0,136.1 L391.9,140.8 L389.5,144.5 L388.9,149.6 L386.8,152.6 Z"
 		},
 		{
@@ -810,7 +810,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Sumter</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Sumter</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M488.9,258.7 L490.2,253.4 L497.5,245.8 L496.4,242.4 L488.0,234.4 L484.5,227.8 L493.6,227.8 L517.6,227.8 L517.7,267.9 L517.3,292.7 L517.3,296.5 L511.0,295.1 L508.2,296.1 L508.2,287.3 L508.3,278.7 L508.3,274.1 L504.3,273.7 L500.5,269.5 L494.0,268.8 L487.9,259.4 Z"
 		},
 		{
@@ -849,7 +849,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hamilton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Hamilton</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M393.9,50.5 L434.1,53.6 L450.4,54.8 L447.0,58.9 L449.6,67.8 L452.6,70.1 L454.3,74.9 L451.0,81.7 L445.0,84.4 L440.7,82.3 L430.3,77.6 L425.0,73.7 L421.8,72.4 L415.0,72.7 L414.7,71.4 L407.7,73.5 L406.3,76.9 L405.5,74.3 L401.7,72.6 L402.1,69.4 L399.7,67.6 L400.1,63.1 L398.2,59.1 L398.7,55.6 L397.2,51.2 Z"
 		},
 		{
@@ -875,7 +875,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Gadsden</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Gadsden</h1><p>There are currently no FNYFS Programs in this county. Try looking at neighboring counties to find help.</p>",
 			"path": "M252.2,39.7 L281.4,41.9 L305.2,43.7 L303.1,45.2 L303.5,48.1 L296.2,55.3 L294.3,64.1 L292.1,66.8 L283.0,67.9 L271.2,74.3 L268.1,74.3 L268.2,71.2 L265.1,71.1 L265.2,66.5 L259.1,66.5 L259.2,60.2 L256.1,58.6 L250.0,58.5 L250.1,50.8 L245.6,50.6 L247.9,49.3 L252.7,41.1 Z"
 		}
 	],
@@ -913,7 +913,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Prevention Central",
 			"xPos": 688.2,
-			"yPos": 497.7,
+			"yPos": 407.7,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -923,7 +923,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Lutheran Services Florida-Southeast",
 			"xPos": 689.0,
-			"yPos": 491.3,
+			"yPos": 401.3,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
