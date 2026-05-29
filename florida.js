@@ -881,14 +881,14 @@ window.JSMaps.maps.florida = {
 	],
 	"pins": [
 		{
-			"name": "Sample pin",
+			"name": "Test Pin",
 			"xPos": 500,
 			"yPos": 344,
-			"color": "#ffc90e",
-			"hoverColor": "#3D6F7A",
-			"selectedColor": "#E06026",
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
 			"url": "https://jsmaps.io",
-			"text": "<h1>Sample pin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>First Location</h1><p>adress and phone number</p>"
 		}
 	]
 }
