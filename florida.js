@@ -4,7 +4,7 @@ window.JSMaps.maps.florida = {
 		"mapHeight": 692.700,
 		"textAreaWidth": 400,
 		"displayAbbreviations": false,
-		"defaultText": "<h1>Florida</h1><p>Florida is the southeasternmost U.S. state, with the Atlantic on one side and the Gulf of Mexico on the other. It has hundreds of miles of beaches. The city of Miami is known for its Latin-American cultural influences and notable arts scene, as well as its nightlife, especially in upscale South Beach. Orlando is famed for theme parks, including Walt Disney World.</p>"
+		"defaultText": "<h1>Florida Network of Youth and Family Services Programs</h1><p>Click the pin or county below to review programs close to you.</p>"
 	},
 	"paths": [
 		{
@@ -13,11 +13,11 @@ window.JSMaps.maps.florida = {
 			"abbreviation": "WA",
 			"textX": 0,
 			"textY": 0,
-			"color": "#85A0A6",
-			"hoverColor": "#3D6F7A",
-			"selectedColor": "#E06026",
+			"color": "#A1C3DA",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#183E6D",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Walton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Walton</h1><p>Insert Addresses Here.</p>",
 			"path": "M114.2,5.3 L132.5,6.0 L146.4,6.6 L145.0,37.1 L162.7,37.9 L159.7,40.3 L160.5,42.0 L156.0,44.7 L155.8,48.9 L158.9,53.3 L158.1,57.1 L160.7,59.6 L156.5,65.1 L151.8,64.9 L148.6,67.0 L148.0,70.6 L148.0,70.6 L147.5,78.6 L147.2,82.8 L140.9,79.1 L113.8,70.2 L110.9,69.8 L111.0,68.3 L111.0,67.6 L115.5,68.8 L118.5,64.6 L121.0,68.0 L125.1,69.1 L126.0,65.0 L129.7,67.9 L136.5,71.2 L137.6,69.0 L133.7,62.9 L135.0,60.2 L130.9,61.5 L128.8,57.7 L127.2,58.9 L121.5,58.2 L112.6,59.8 L111.5,60.8 L112.6,37.0 Z"
 		},
 		{
@@ -882,13 +882,13 @@ window.JSMaps.maps.florida = {
 	"pins": [
 		{
 			"name": "Test Pin",
-			"xPos": 500,
-			"yPos": 344,
+			"xPos": 481.7,
+			"yPos": 141.0,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
 			"url": "https://jsmaps.io",
-			"text": "<h1>First Location</h1><p>adress and phone number</p>"
+			"text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>"
 		}
 	]
 }
