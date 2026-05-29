@@ -108,7 +108,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Osceola</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Osceola</h1><p>Children's Home Society, Osceola<br/>5768 South Semoran Blvd. Orlando, FL 32822<br/>Community Counseling Phone Number: 407-864-5220</p>",
 			"path": "M601.2,366.5 L594.0,366.5 L593.6,359.4 L587.7,347.8 L585.6,345.5 L578.8,343.5 L578.2,337.2 L571.8,331.3 L570.8,328.6 L567.7,328.8 L566.5,324.4 L571.2,327.7 L574.5,320.0 L564.3,320.1 L564.2,313.9 L557.9,314.0 L557.9,307.8 L554.7,301.7 L545.4,301.7 L545.4,292.5 L545.4,292.5 L595.0,292.1 L619.5,292.0 L619.8,319.7 L619.2,319.7 L619.5,347.4 L618.3,347.4 L619.1,356.7 L619.3,366.4 L619.3,366.4 Z"
 		},
 		{
@@ -147,7 +147,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>St. Lucie</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>St. Lucie</h1><p>Children's Home Society, WaveCREST<br/>4520 Selvitz Rd, Fort Pierce, FL 34981<br/>Shelter Phone Number: 772-460-9752<br/><br/>Prevention Central<br/>S Jenkins Rd, Fort Pierce, FL 34981<br/>Phone: 561-833-1461 </p>",
 			"path": "M668.0,374.8 L669.0,379.3 L680.4,405.7 L675.1,405.7 L675.1,409.0 L672.3,408.0 L675.1,411.3 L675.1,411.8 L638.1,412.2 L638.0,402.9 L637.5,375.0 L642.7,375.0 Z M671.6,374.7 L683.6,405.6 L683.1,405.6 L682.3,405.7 L676.4,393.2 L674.4,390.1 L670.1,374.8 L671.1,374.8 Z"
 		},
 		{
@@ -264,7 +264,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Orange</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Orange</h1><p>Orange County Youth & Family Services<br/>1800 E Michigan St, Orlando, FL 32806<br/>Shelter Phone Number: 407-836-7626<br/><br/>Thaise Educational & Exposure Tours, Inc.<br/>927 S Goldwyn Ave, Orlando, FL 32805<br/>Shelter Phone Number: 407-674-7911<br/><br/>Nehemiah Educational & Economic Development<br/>611 Wymore Rd, Winter Park, FL 32789<br/>Shelter Phone Number: 407-622-6200<br/>Community Counseling Phone Number: 407-622-6200</p>",
 			"path": "M607.7,264.1 L611.7,266.0 L612.5,272.0 L617.7,275.5 L618.7,278.9 L616.4,279.4 L617.1,288.0 L619.5,292.0 L595.0,292.1 L545.4,292.5 L545.1,248.2 L546.2,246.2 L567.8,246.2 L567.1,251.2 L563.7,253.8 L563.7,261.5 L575.9,261.5 L576.0,264.6 Z"
 		},
 		{
@@ -329,7 +329,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Putnam</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Putnam</h1><p>CDS Family & Behavioral Health Services, Inc., Interface East<br/>2919 Kennedy St, Palatka, FL 32177<br/>Shelter Phone Number: 386-385-0405</p>",
 			"path": "M508.3,147.8 L508.4,147.8 L508.9,147.8 L512.7,145.6 L519.0,144.8 L521.7,139.9 L526.1,139.2 L530.6,135.3 L551.9,134.9 L553.3,138.8 L557.1,143.4 L557.3,157.9 L557.6,170.8 L560.8,176.5 L561.6,181.4 L565.7,181.4 L564.1,183.6 L542.9,189.4 L545.0,186.9 L544.0,184.4 L537.3,184.4 L537.2,178.2 L534.2,178.3 L534.1,172.2 L527.9,172.3 L527.9,168.6 L519.7,169.1 L513.0,170.7 L508.2,173.9 L508.3,153.0 Z"
 		},
 		{
@@ -342,7 +342,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Duval</h1><p>Youth Crisis Center, Inc.<br/>3015 Parental Home Rd, Jacksonville, FL 32216<br/>Shelter Phone Number: 904-725-6662<br/>Community Counseling Phone Number: 904-725-6662<br/>Thaise Educational & Exposure Tours, Inc.<br/>728 Blanche St, Jacksonville, FL 32204<br/>904-513-3972</p>",
+			"text": "<h1>Duval</h1><p>Youth Crisis Center, Inc.<br/>3015 Parental Home Rd, Jacksonville, FL 32216<br/>Shelter Phone Number: 904-725-6662<br/>Community Counseling Phone Number: 904-725-6662<br/><br/>Thaise Educational & Exposure Tours, Inc.<br/>728 Blanche St, Jacksonville, FL 32204<br/>904-513-3972</p>",
 			"path": "M508.9,98.4 L508.9,92.4 L508.9,89.3 L528.8,68.8 L532.1,64.8 L537.3,61.7 L538.8,57.7 L543.7,58.9 L547.7,56.2 L551.5,58.5 L552.0,61.3 L555.1,62.7 L558.9,58.5 L559.7,61.3 L563.9,64.4 L567.7,71.2 L567.4,74.5 L569.3,77.4 L568.8,86.5 L570.1,91.3 L565.0,91.4 L565.3,106.8 L555.7,107.1 L547.9,103.9 L542.7,105.3 L541.7,103.1 L542.8,98.0 Z"
 		},
 		{
@@ -394,7 +394,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Pinellas</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Pinellas</h1><p>Family Resources, Inc. SafePlace2B, Clearwater<br/>1615 Union St, Clearwater, FL 33755<br/>Shelter Phone Number: 727-298-1606<br/>Community Counseling Phone Number : 727-298-3900<br/><br/>Family Resources, Inc. SafePlace2B, St. Pete<br/>3821 5th Ave N, St. Petersburg, FL 33713<br/>Shelter Phone Number: 727-893-1893<br/>Community Counseling Phone Number: 727-552-1010<br/><br/>Thaise Educational & Exposure Tours, Inc.<br/>1111 18th Ave S, St. Petersburg, FL 33705<br/>Community Counseling Phone Number: 727-821-7951<br/><br/>Bethel Community Foundation<br/>2901 54th Ave S, St. Petersburg, FL 33712<br/>Community Counseling Phone Number: 727-866-2747</p>",
 			"path": "M452.5,310.7 L452.7,323.0 L452.7,327.2 L452.5,328.7 L448.7,325.0 L449.8,329.1 L448.7,332.0 L452.6,332.3 L452.6,332.5 L452.6,332.7 L446.0,336.5 L456.7,341.5 L460.1,341.1 L460.2,341.3 L460.2,341.5 L456.9,343.4 L457.5,346.9 L454.3,355.3 L453.5,360.5 L449.1,360.5 L448.8,356.8 L445.7,355.8 L442.4,351.3 L437.0,346.6 L437.3,349.5 L442.9,355.6 L446.0,363.5 L443.7,362.7 L441.4,355.1 L435.7,349.4 L433.2,340.5 L435.5,335.7 L435.1,340.9 L438.3,332.4 L441.6,317.7 L439.7,310.7 L440.1,310.7 Z"
 		},
 		{
@@ -407,7 +407,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hillsborough</h1><p>Hillsborough County Children's Services, Lake Magdalene<br/>3191 Clay Mangum Ln, Tampa, FL 33618<br/>Shelter Phone Number: 813-264-3807<br/>Community Counseling Phone Number: 813-264-3807<br/>Tampa Housing Authority<br/>5301 W Cypress St, Tampa, FL 33607<br/>Shelter Phone Number: 813-341-9101, ext. 2201<br/>Youth Advocate Program<br/>2115 N 22nd St, Tampa, FL 33605</p>",
+			"text": "<h1>Hillsborough</h1><p>Hillsborough County Children's Services, Lake Magdalene<br/>3191 Clay Mangum Ln, Tampa, FL 33618<br/>Shelter Phone Number: 813-264-3807<br/>Community Counseling Phone Number: 813-264-3807<br/><br/>Tampa Housing Authority<br/>5301 W Cypress St, Tampa, FL 33607<br/>Shelter Phone Number: 813-341-9101, ext. 2201<br/><br/>Youth Advocate Program<br/>2115 N 22nd St, Tampa, FL 33605</p>",
 			"path": "M452.7,327.2 L452.7,323.0 L452.5,310.7 L473.4,311.0 L503.5,311.0 L508.1,311.0 L508.3,366.4 L486.8,366.4 L462.0,366.4 L467.7,360.6 L469.7,356.9 L476.0,350.6 L476.6,346.6 L473.9,337.8 L471.1,336.4 L467.9,340.4 L468.1,347.9 L464.0,347.5 L462.8,345.5 L463.3,337.8 L461.0,333.7 L455.7,333.1 L457.6,330.8 Z M460.1,341.1 L460.7,341.0 L460.2,341.5 L460.2,341.3 Z M452.6,332.3 L453.0,332.3 L452.6,332.7 L452.6,332.5 Z"
 		},
 		{
@@ -472,7 +472,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Pasco</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Pasco</h1><p>Youth & Family Advocates, Inc. RAP House<br/>7522 Plathe Rd, New Port Richey, FL 34653<br/>Shelter Phone Number: 727-835-1777</p>",
 			"path": "M452.5,310.7 L440.1,310.7 L439.7,310.7 L440.2,307.1 L442.4,306.3 L446.5,297.5 L445.0,296.8 L450.6,283.2 L489.8,283.2 L489.8,278.6 L508.3,278.7 L508.2,287.3 L508.2,296.1 L508.2,301.8 L503.5,301.8 L503.5,311.0 L473.4,311.0 Z"
 		},
 		{
@@ -485,7 +485,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Sarasota</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Sarasota</h1><p>Safe Children Coalition<br/>2841 6th St, Sarasota, FL 34237<br/>941-955-5596</p>",
 			"path": "M453.5,393.4 L457.5,398.6 L456.2,399.0 L451.8,393.3 L452.9,393.3 Z M489.3,433.8 L487.5,432.9 L489.3,436.2 L489.2,440.4 L479.9,440.3 L478.4,438.6 L478.7,440.2 L478.2,440.3 L477.5,440.3 L469.3,423.8 L466.1,415.6 L466.6,412.2 L464.3,411.8 L460.4,405.4 L462.4,404.6 L459.5,393.4 L489.6,393.8 L489.5,412.6 L508.1,412.7 L508.0,421.4 L508.0,431.2 L489.3,431.1 Z"
 		},
 		{
@@ -537,7 +537,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Broward</h1><p>Lutheran Services of Florida, Inc. Lippman Youth Shelter<br/>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number: 954-568-2801<br/>Community Counseling Phone Number: 954-486-4222<br/>Prevention Central<br/>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>954-763-5010</p>",
+			"text": "<h1>Broward</h1><p>Lutheran Services of Florida, Inc. Lippman Youth Shelter<br/>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number: 954-568-2801<br/><br/>Community Counseling Phone Number: 954-486-4222<br/>Prevention Central<br/>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>954-763-5010</p>",
 			"path": "M620.3,526.4 L619.9,512.3 L619.9,512.3 L619.8,508.1 L619.7,504.4 L675.3,503.8 L675.2,501.5 L684.1,504.3 L694.0,504.2 L696.2,504.9 L694.0,524.0 L691.6,528.4 L693.2,531.5 L692.8,541.4 L675.9,542.1 L676.0,543.6 L639.2,544.0 L639.2,541.7 L620.8,541.8 Z"
 		},
 		{
@@ -576,7 +576,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Polk</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Polk</h1><p>Youth & Family Advocates, Inc., GW Harris Runaway<br/>1060 US-17, Bartow, FL 33830<br/>Shelter Phone Number: 863-595-0220</p>",
 			"path": "M545.4,301.7 L554.7,301.7 L557.9,307.8 L557.9,314.0 L564.2,313.9 L564.3,320.1 L574.5,320.0 L571.2,327.7 L566.5,324.4 L567.7,328.8 L570.8,328.6 L571.8,331.3 L578.2,337.2 L578.8,343.5 L585.6,345.5 L587.7,347.8 L593.6,359.4 L594.0,366.5 L583.9,366.3 L554.4,366.3 L534.4,366.4 L508.3,366.4 L508.1,311.0 L503.5,311.0 L503.5,301.8 L508.2,301.8 L508.2,296.1 L511.0,295.1 L517.3,296.5 L517.3,292.7 L526.7,292.6 L526.7,290.9 L532.9,290.9 L532.9,292.6 L545.4,292.5 L545.4,292.5 Z"
 		},
 		{
@@ -615,7 +615,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Volusia</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Volusia</h1><p>SMA Healthcare Inc., Beach House<br/>3875 Tiger Bay Rd, Daytona Beach, FL 32124<br/>Shelter Phone Number: 386-236-3111<br/><br/>Children's Home Society, Volusia<br/>104 LaCosta Lane, Suite 120 Daytona Beach, FL 32114<br/>Phone Number: (386) 274-0341</p>",
 			"path": "M542.9,189.4 L564.1,183.6 L565.7,181.4 L566.9,181.3 L567.3,195.9 L592.0,195.3 L591.4,180.0 L596.4,178.2 L599.2,185.0 L613.3,216.0 L616.1,218.3 L617.5,222.2 L631.2,245.0 L609.3,245.3 L609.8,264.0 L607.7,264.1 L605.8,261.6 L604.9,255.6 L600.7,249.7 L601.4,247.2 L599.2,242.4 L596.5,241.4 L593.5,245.4 L589.5,246.2 L585.3,241.1 L576.5,240.9 L573.0,239.5 L572.2,236.2 L573.1,235.3 L573.3,225.1 L568.8,220.1 L563.8,216.8 L562.8,213.3 L559.5,213.2 L556.8,204.9 L554.0,202.4 L549.3,202.2 L546.5,194.4 L545.2,191.9 Z"
 		},
 		{
@@ -719,7 +719,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Seminole</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Seminole</h1><p>Boys Town Central Florida, Inc.<br/>975 Oklahoma St, Oviedo, FL 32765<br/>Shelter Phone Number: 407-588-2170<br/><br/>Seminole County Sheriff's Office<br/>1151 E 28th St, Sanford, FL 32773<br/>Phone Number: 407-708-7671</p>",
 			"path": "M567.8,246.2 L567.3,243.0 L572.2,236.2 L573.0,239.5 L576.5,240.9 L585.3,241.1 L589.5,246.2 L593.5,245.4 L596.5,241.4 L599.2,242.4 L601.4,247.2 L600.7,249.7 L604.9,255.6 L605.8,261.6 L607.7,264.1 L576.0,264.6 L575.9,261.5 L563.7,261.5 L563.7,253.8 L567.1,251.2 Z"
 		},
 		{
@@ -745,7 +745,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Okaloosa</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Okaloosa</h1><p>Lutheran Services Florida, Inc., Hope House<br/>5127 Eastland St, Crestview, FL 32539<br/>Shelter Phone Number: 850-682-2374</p>",
 			"path": "M110.9,69.8 L102.9,68.5 L102.2,66.6 L111.0,67.6 L111.0,68.3 Z M73.9,69.2 L73.9,68.3 L74.0,66.9 L87.0,65.4 L99.5,67.5 L95.8,67.4 Z M78.0,3.5 L102.2,4.9 L114.2,5.3 L112.6,37.0 L111.5,60.8 L107.4,59.9 L110.0,55.5 L104.7,57.1 L103.1,54.6 L103.3,59.3 L93.5,62.6 L92.2,65.4 L85.1,64.7 L74.2,65.0 L75.6,42.7 Z"
 		},
 		{
@@ -823,7 +823,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>St. Johns</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>St. Johns</h1><p>Youth Crisis Center, Inc.<br/>3015 Parental Home Rd, Jacksonville, FL 32216<br/>Shelter Phone Number: 904-725-6662<br/>Community Counseling Phone Number: 904-725-6662</p>",
 			"path": "M570.1,91.3 L572.6,99.9 L575.1,112.4 L581.3,134.9 L581.9,140.1 L586.1,152.6 L581.3,153.1 L575.7,157.4 L557.3,157.9 L557.1,143.4 L553.3,138.8 L551.9,134.9 L549.4,126.9 L550.1,122.7 L542.0,115.1 L542.7,105.3 L547.9,103.9 L555.7,107.1 L565.3,106.8 L565.0,91.4 Z"
 		},
 		{
@@ -836,7 +836,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Palm Beach</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Palm Beach</h1><p>Children's Home Society, Safe Harbor<br/>3335 Forest Hill Blvd, Palm Springs, FL 33406<br/>Shelter Phone Number: 561-868-4444<br/><br/>Center for Child Counseling, Inc.<br/>8895 N Military Trl #300C, West Palm Beach, FL 33410<br/>Phone Number: 561-244-9499<br/><br/>Urban League of Palm Beach County<br/>1700 Australian Ave, West Palm Beach, FL 33404<br/>Community Counseling Phone Number: 561-833-1461</p>",
 			"path": "M695.3,436.4 L691.6,440.2 L696.5,443.1 L699.1,453.1 L697.7,457.5 L699.6,463.2 L700.0,476.7 L698.0,480.0 L697.4,494.3 L696.2,504.9 L694.0,504.2 L684.1,504.3 L675.2,501.5 L675.3,503.8 L619.7,504.4 L619.1,476.9 L618.7,438.5 L665.8,438.0 L689.0,437.9 L689.0,436.4 Z"
 		},
 		{
