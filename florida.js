@@ -889,6 +889,16 @@ window.JSMaps.maps.florida = {
 			"selectedColor": "#EFD78D",
 			"url": "https://www.cdsfl.org/",
 			"text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>"
+		},
+		{
+			"name": "Anchorage Children's House Hidle House",
+			"xPos": 179.8,
+			"yPos": 85.6,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://www.cdsfl.org/",
+			"text": "<h1>Anchorage Children's House Hidle House</h1><p>Anchorage Children's House Hidle House<br/>Shelter Number: 850-784-1020<br/>Non Res Number: 850-763-7102</p>"
 		}
 	]
 }
