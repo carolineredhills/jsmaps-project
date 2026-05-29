@@ -43,7 +43,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hernando</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Hernando</h1><p>Youth & Family Advocates Inc., New Beginnings<br/>18377 Sheriff Mylander Wy, Brooksville, FL 34601<br/>Shelter Phone Number: 352-540-6015</p>",
 			"path": "M450.6,283.2 L452.8,271.6 L453.4,258.1 L454.6,255.7 L474.5,255.8 L474.5,258.8 L488.9,258.7 L487.9,259.4 L494.0,268.8 L500.5,269.5 L504.3,273.7 L508.3,274.1 L508.3,278.7 L489.8,278.6 L489.8,283.2 Z"
 		},
 		{
@@ -82,7 +82,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Miami-Dade</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Miami-Dade</h1><p>Luther Services Florida, Inc., Miami Bridge, Central Shelter<br/>2810 NW S River Dr, Miami, FL 33125<br/>Shelter Phone Number: 305-635-8953<br/>Luther Services Florida, Inc., Miami Bridge, Homestead Shelter<br/>326 NW 3rd Ave, Homestead, FL 33030<br/>Shelter Phone Number: 305-246-8956<br/>Center for Family & Child Enrichment, Inc.<br/>1825 NW 167th St, Miami Gardens, FL 33056<br/>Shelter Phone Number: 305-624-7450</p>",
 			"path": "M684.2,600.6 L685.7,592.7 L687.0,592.3 L686.3,595.9 Z M689.4,572.7 L687.8,573.3 L687.0,569.7 L689.5,566.8 Z M637.8,628.8 L637.7,629.1 L637.3,629.4 L633.8,627.6 L635.3,629.8 L634.9,629.8 L634.8,629.8 L634.8,629.8 L634.4,629.8 L633.8,629.6 L632.9,628.2 L632.3,628.5 L632.3,628.5 L632.3,628.5 L631.4,629.0 L631.3,629.2 L631.2,629.7 L629.2,627.7 L628.7,629.2 L628.6,629.4 L629.1,626.4 L627.5,627.3 L625.3,626.9 L624.7,626.6 L624.4,626.5 L623.3,625.4 L623.0,625.6 L622.4,606.7 L621.4,606.7 L621.0,560.2 L620.8,549.3 L620.8,541.8 L639.2,541.7 L639.2,544.0 L676.0,543.6 L675.9,542.1 L692.8,541.4 L692.1,562.5 L692.0,553.4 L690.8,549.3 L687.4,553.8 L685.7,560.4 L685.7,564.9 L680.4,568.4 L678.1,576.5 L675.3,579.3 L675.0,586.5 L672.1,592.5 L673.7,598.3 L672.3,601.7 L674.9,605.4 L667.2,613.5 L664.5,619.7 L662.9,619.0 L662.0,619.4 L660.5,619.2 L658.1,620.8 L657.8,620.8 L657.7,621.2 L657.4,621.5 L657.8,621.5 L657.8,622.0 L658.4,622.5 L657.9,622.9 L657.8,622.9 L657.8,622.9 L657.7,623.0 L657.3,622.5 L657.5,622.8 L657.6,623.0 L657.3,623.2 L655.5,621.3 L654.9,621.6 L656.1,618.6 L649.5,619.4 L647.3,624.5 L647.2,623.5 L646.3,623.7 L645.7,623.9 L645.6,623.8 L645.5,623.9 L645.0,624.0 L644.9,624.0 L644.8,624.1 L642.8,624.5 L642.4,625.4 L641.8,626.5 L642.7,626.4 L642.9,627.2 L642.6,627.6 L642.1,627.1 L640.5,627.4 L640.3,627.2 L640.1,627.3 L638.8,627.3 L638.4,628.4 L638.0,628.8 Z M680.7,608.0 L681.0,608.1 L680.9,608.3 L680.8,608.1 Z M677.8,608.0 L678.9,607.3 L679.1,607.4 Z"
 		},
 		{
@@ -134,7 +134,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Lee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Lee</h1><p>Lutheran Services Florida, Inc., Oasis Youth Shelter<br/>3642 Central Ave, Fort Myers, FL 33901<br/>Shelter Phone Number: 239-278-1030<br/>Community Counseling Phone Number: 239-278-1030</p>",
 			"path": "M491.7,473.2 L489.9,471.0 L488.7,466.1 L490.1,466.8 Z M488.1,456.8 L489.0,460.1 L488.2,464.7 L486.9,456.8 L487.8,456.8 Z M554.5,458.9 L554.5,467.5 L554.8,485.9 L555.0,495.4 L545.7,495.6 L545.9,506.6 L530.6,506.7 L528.1,505.2 L528.2,496.4 L524.5,487.8 L524.1,493.2 L515.4,489.2 L512.8,490.0 L512.8,485.9 L515.8,486.3 L521.8,481.2 L523.1,475.6 L529.6,468.2 L531.6,468.3 L534.2,464.7 L527.2,467.5 L521.2,474.0 L518.3,482.2 L514.1,484.3 L514.1,482.7 L509.7,484.4 L507.4,480.9 L508.2,475.6 L505.6,468.3 L507.0,458.8 L536.0,458.9 Z M495.9,490.2 L494.0,482.0 L497.8,489.5 L501.1,491.4 L506.1,492.0 L506.9,490.7 L510.8,492.9 L506.7,495.3 L503.6,495.5 Z M501.7,474.8 L505.0,481.0 L505.7,486.4 L503.1,485.6 L500.4,478.4 L500.8,475.8 L496.6,466.1 L499.8,466.8 L502.6,471.1 Z"
 		},
 		{
@@ -251,7 +251,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Brevard</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Brevard</h1><p>Crosswinds Youth Services, Inc. Robert E Lehton<br/>1407 Dixon Blvd, Cocoa, FL 32922<br/>321-452-0800</p>",
 			"path": "M619.5,292.0 L617.1,288.0 L616.4,279.4 L618.7,278.9 L617.7,275.5 L612.5,272.0 L611.7,266.0 L607.7,264.1 L609.8,264.0 L609.3,245.3 L631.2,245.0 L641.2,259.7 L646.8,269.5 L650.6,278.4 L644.6,286.0 L645.0,306.4 L647.1,317.1 L650.8,326.3 L658.5,337.8 L658.6,342.3 L655.6,336.2 L652.8,333.0 L651.8,329.3 L646.2,319.3 L642.4,306.6 L642.4,288.4 L645.0,275.0 L644.3,266.6 L642.9,264.0 L637.9,263.0 L635.9,265.7 L628.3,263.9 L626.6,260.9 L626.9,256.7 L629.7,252.1 L629.4,250.2 L625.4,248.8 L620.5,245.2 L622.4,258.8 L625.4,264.4 L626.1,270.8 L628.4,281.0 L631.1,289.1 L634.7,297.2 L656.2,343.6 L653.2,347.1 L619.5,347.4 L619.2,319.7 L619.8,319.7 Z M638.1,301.8 L632.9,287.5 L630.8,273.9 L631.5,271.0 L641.1,265.2 L642.7,268.4 L638.5,282.3 Z"
 		},
 		{
@@ -303,7 +303,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Bay</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Bay</h1><p>Anchorage Children's Home, Inc. Hidle House<br/>2121 Lisenby Ave, Panama City, FL 32405<br/>Shelter Phone Number: 850-784-1020<br/>Community Counseling Phone Number: 850-763-7102</p>",
 			"path": "M147.2,82.8 L147.5,78.6 L148.0,70.6 L148.0,70.6 L150.6,68.4 L158.0,68.7 L160.9,65.6 L194.3,67.1 L194.9,53.3 L199.6,53.4 L202.2,53.5 L204.3,53.6 L203.4,69.0 L202.6,92.3 L202.4,98.2 L202.0,108.6 L197.5,106.4 L195.4,109.6 L193.3,107.1 L193.3,101.9 L191.6,102.7 L192.8,98.4 L185.8,101.0 L182.6,98.4 L178.9,97.9 L172.2,91.9 L178.2,86.1 L181.8,86.9 L185.5,82.7 L187.7,82.9 L184.9,78.5 L181.7,83.1 L174.8,84.5 L173.5,86.5 L169.5,78.7 L167.3,81.3 L161.2,82.8 L162.1,87.3 L168.1,87.0 L171.0,90.4 L169.6,92.3 L173.4,96.2 L169.8,97.7 L159.1,89.3 Z M201.7,121.5 L189.9,115.1 L193.6,115.0 L176.5,99.7 L176.5,98.3 L182.1,99.5 L181.9,101.4 L187.9,103.5 L190.8,107.3 L197.2,111.2 L202.0,108.8 L201.8,113.5 Z"
 		},
 		{
@@ -342,7 +342,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Duval</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Duval</h1><p>Youth Crisis Center, Inc.<br/>3015 Parental Home Rd, Jacksonville, FL 32216<br/>Shelter Phone Number: 904-725-6662<br/>Community Counseling Phone Number: 904-725-6662<br/>Thaise Educational & Exposure Tours, Inc.<br/>728 Blanche St, Jacksonville, FL 32204<br/>904-513-3972</p>",
 			"path": "M508.9,98.4 L508.9,92.4 L508.9,89.3 L528.8,68.8 L532.1,64.8 L537.3,61.7 L538.8,57.7 L543.7,58.9 L547.7,56.2 L551.5,58.5 L552.0,61.3 L555.1,62.7 L558.9,58.5 L559.7,61.3 L563.9,64.4 L567.7,71.2 L567.4,74.5 L569.3,77.4 L568.8,86.5 L570.1,91.3 L565.0,91.4 L565.3,106.8 L555.7,107.1 L547.9,103.9 L542.7,105.3 L541.7,103.1 L542.8,98.0 Z"
 		},
 		{
@@ -407,7 +407,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Hillsborough</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Hillsborough</h1><p>Hillsborough County Children's Services, Lake Magdalene<br/>3191 Clay Mangum Ln, Tampa, FL 33618<br/>Shelter Phone Number: 813-264-3807<br/>Community Counseling Phone Number: 813-264-3807<br/>Tampa Housing Authority<br/>5301 W Cypress St, Tampa, FL 33607<br/>Shelter Phone Number: 813-341-9101, ext. 2201<br/>Youth Advocate Program<br/>2115 N 22nd St, Tampa, FL 33605</p>",
 			"path": "M452.7,327.2 L452.7,323.0 L452.5,310.7 L473.4,311.0 L503.5,311.0 L508.1,311.0 L508.3,366.4 L486.8,366.4 L462.0,366.4 L467.7,360.6 L469.7,356.9 L476.0,350.6 L476.6,346.6 L473.9,337.8 L471.1,336.4 L467.9,340.4 L468.1,347.9 L464.0,347.5 L462.8,345.5 L463.3,337.8 L461.0,333.7 L455.7,333.1 L457.6,330.8 Z M460.1,341.1 L460.7,341.0 L460.2,341.5 L460.2,341.3 Z M452.6,332.3 L453.0,332.3 L452.6,332.7 L452.6,332.5 Z"
 		},
 		{
@@ -459,7 +459,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Manatee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Manatee</h1><p>Family Resources, Inc., SafePlace2Be Manatee<br/>1001 9th Ave W, Bradenton, FL 34205<br/>Shelter: 941-708-5850<br/>Community Counseling: 727-298-3900</p>",
 			"path": "M451.8,393.3 L449.3,388.7 L453.5,393.4 L452.9,393.3 Z M459.5,393.4 L452.7,387.7 L447.7,386.5 L444.8,380.1 L451.5,385.8 L452.8,382.2 L449.6,381.4 L451.2,379.6 L458.0,381.4 L453.5,379.2 L457.7,377.7 L458.0,374.9 L462.0,366.4 L486.8,366.4 L508.3,366.4 L508.2,384.7 L508.1,398.9 L508.1,405.6 L508.1,412.7 L489.5,412.6 L489.6,393.8 Z"
 		},
 		{
@@ -498,7 +498,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Leon</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Leon</h1><p>Capital City Youth Services<br/>2407 Roberts Ave, Tallahassee, FL 32310<br/>850-576-6000</p>",
 			"path": "M305.2,43.7 L308.1,43.9 L330.2,45.5 L330.1,52.2 L332.7,61.4 L326.9,61.3 L326.7,67.5 L323.6,70.5 L323.3,87.5 L308.1,87.1 L307.5,84.0 L264.9,83.5 L264.8,80.0 L271.2,74.3 L283.0,67.9 L292.1,66.8 L294.3,64.1 L296.2,55.3 L303.5,48.1 L303.1,45.2 Z"
 		},
 		{
@@ -511,7 +511,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Escambia</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Escambia</h1><p>Lutheran Services Inc, Currie House<br/>4610 W Fairfield Dr, Pensacola, FL 32506<br/>Shelter Phone Number: 850-453-2772<br/>Community Counseling Phone Number: 850-453-2772</p>",
 			"path": "M36.8,71.3 L36.9,71.3 L37.0,71.3 L37.0,71.3 L37.3,71.3 L37.4,71.3 L39.0,71.9 L39.0,71.9 L38.5,72.0 L33.2,72.6 L28.2,71.7 L36.3,71.3 L36.6,71.3 Z M41.0,70.9 L42.5,70.7 L43.0,70.7 L43.3,70.6 L43.7,70.6 L43.9,70.5 L44.0,70.5 L48.1,70.0 L51.9,68.9 L54.0,68.6 L56.0,68.5 L60.0,68.7 L63.0,67.9 L63.0,68.8 L63.0,70.1 L39.0,71.9 L39.0,71.9 Z M39.0,72.0 L39.0,71.9 L39.0,71.9 L39.0,71.9 L39.0,71.9 Z M39.8,49.7 L41.8,54.1 L41.7,57.2 L37.3,62.9 L31.6,64.5 L31.5,68.2 L27.0,70.1 L25.2,72.9 L7.6,76.0 L13.7,74.4 L9.8,73.7 L14.3,73.1 L11.1,71.5 L15.7,71.1 L17.5,69.3 L16.5,66.7 L19.3,63.5 L24.2,61.4 L23.2,57.6 L17.0,55.2 L15.2,52.2 L18.2,46.8 L20.8,40.1 L19.9,35.0 L8.7,27.2 L7.2,22.6 L2.9,18.6 L0.0,13.7 L4.7,3.4 L4.0,0.0 L43.7,1.8 L37.4,4.8 L34.9,8.5 L32.0,9.1 L32.1,13.0 L29.2,17.2 L30.9,20.9 L29.1,23.6 L29.6,30.7 L32.6,31.7 L33.0,42.4 L37.2,48.5 Z"
 		},
 		{
@@ -537,7 +537,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Broward</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Broward</h1><p>Lutheran Services of Florida, Inc. Lippman Youth Shelter<br/>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number: 954-568-2801<br/>Community Counseling Phone Number: 954-486-4222<br/>Prevention Central<br/>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>954-763-5010</p>",
 			"path": "M620.3,526.4 L619.9,512.3 L619.9,512.3 L619.8,508.1 L619.7,504.4 L675.3,503.8 L675.2,501.5 L684.1,504.3 L694.0,504.2 L696.2,504.9 L694.0,524.0 L691.6,528.4 L693.2,531.5 L692.8,541.4 L675.9,542.1 L676.0,543.6 L639.2,544.0 L639.2,541.7 L620.8,541.8 Z"
 		},
 		{
@@ -641,7 +641,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Marion</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Marion</h1><p>Arnette House, Inc.<br/>Shelter Phone Number: 352-622-6135<br/>2310 NE 24th St, Ocala, FL 34470</p>",
 			"path": "M542.9,189.4 L545.2,191.9 L546.5,194.4 L546.9,218.5 L545.0,218.5 L545.1,227.8 L517.6,227.8 L493.6,227.8 L484.5,227.8 L479.4,223.3 L474.6,222.2 L469.5,218.1 L463.7,218.8 L463.9,200.9 L476.1,200.8 L475.9,172.4 L493.9,172.5 L493.7,178.1 L499.6,179.6 L501.1,177.7 L508.3,177.0 L508.2,173.9 L513.0,170.7 L519.7,169.1 L527.9,168.6 L527.9,172.3 L534.1,172.2 L534.2,178.3 L537.2,178.2 L537.3,184.4 L544.0,184.4 L545.0,186.9 Z"
 		},
 		{
@@ -862,7 +862,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Columbia</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Columbia</h1><p>CDS Family and Behavioral Health Services<br/>1884 SW Grandview St, Lake City, FL 32025<br/>386-487-0190</p>",
 			"path": "M450.4,54.8 L460.1,55.5 L471.4,56.4 L471.5,91.8 L471.3,103.6 L471.6,106.9 L465.8,110.0 L463.3,115.9 L460.5,118.9 L464.7,124.2 L460.4,127.1 L459.4,131.9 L455.0,135.5 L452.8,135.9 L449.6,135.4 L445.7,132.7 L442.7,128.7 L442.6,125.6 L439.8,125.0 L443.4,121.6 L443.5,119.3 L440.5,119.3 L440.7,82.3 L445.0,84.4 L451.0,81.7 L454.3,74.9 L452.6,70.1 L449.6,67.8 L447.0,58.9 Z"
 		},
 		{
