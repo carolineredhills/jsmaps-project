@@ -4,6 +4,7 @@ window.JSMaps.maps.florida = {
 		"mapHeight": 692.700,
 		"textAreaWidth": 400,
 		"displayAbbreviations": false,
+		"defaultText": "<h1>Florida</h1><p>Florida is the southeasternmost U.S. state, with the Atlantic on one side and the Gulf of Mexico on the other. It has hundreds of miles of beaches. The city of Miami is known for its Latin-American cultural influences and notable arts scene, as well as its nightlife, especially in upscale South Beach. Orlando is famed for theme parks, including Walt Disney World.</p>"
 	},
 	"paths": [
 		{
@@ -757,7 +758,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#3D6F7A",
 			"selectedColor": "#E06026",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Alachua</h1><p>8 </p>",
+			"text": "<h1>Alachua</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M508.3,147.8 L508.3,153.0 L508.2,173.9 L508.3,177.0 L501.1,177.7 L499.6,179.6 L493.7,178.1 L493.9,172.5 L475.9,172.4 L462.0,172.9 L461.9,166.8 L452.8,166.9 L452.8,163.9 L452.9,152.1 L452.8,135.9 L455.0,135.5 L459.4,131.9 L460.4,127.1 L464.7,124.2 L466.4,123.8 L474.9,126.2 L477.7,130.5 L482.5,130.8 L488.3,134.6 L495.9,134.1 L501.1,135.4 L503.3,141.0 L506.1,141.7 Z"
 		},
 		{
@@ -878,196 +879,16 @@ window.JSMaps.maps.florida = {
 			"path": "M252.2,39.7 L281.4,41.9 L305.2,43.7 L303.1,45.2 L303.5,48.1 L296.2,55.3 L294.3,64.1 L292.1,66.8 L283.0,67.9 L271.2,74.3 L268.1,74.3 L268.2,71.2 L265.1,71.1 L265.2,66.5 L259.1,66.5 L259.2,60.2 L256.1,58.6 L250.0,58.5 L250.1,50.8 L245.6,50.6 L247.9,49.3 L252.7,41.1 Z"
 		}
 	],
-   "pins": [
-{
-"name": "CDS Family & Behavioral Health",
-"xPos": 610,
-"yPos": 180,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>CDS Family & Behavioral Health</h3><p>Gainesville, FL<br/>352-244-0618</p>"
-},
-{
-"name": "Anchorage Children's Home",
-"xPos": 180,
-"yPos": 150,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Anchorage Children's Home</h3><p>Panama City, FL<br/>850-784-1020</p>"
-},
-{
-"name": "Crosswinds Youth Services",
-"xPos": 700,
-"yPos": 300,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Crosswinds Youth Services</h3><p>Cocoa, FL<br/>321-452-0800</p>"
-},
-{
-"name": "Prevention Central",
-"xPos": 720,
-"yPos": 520,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Prevention Central</h3><p>Fort Lauderdale, FL<br/>954-763-5010</p>"
-},
-{
-"name": "LSF Southeast",
-"xPos": 715,
-"yPos": 510,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>LSF Southeast</h3><p>Oakland Park, FL<br/>954-568-2801</p>"
-},
-
-{
-"name": "Place of Hope",
-"xPos": 730,
-"yPos": 560,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Place of Hope</h3><p>Palm Beach Gardens, FL<br/>561-775-7195</p>"
-},
-{
-"name": "Youth Emergency Services",
-"xPos": 735,
-"yPos": 585,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Youth Emergency Services</h3><p>West Palm Beach, FL</p>"
-},
-
-{
-"name": "Orlando Shelter",
-"xPos": 640,
-"yPos": 300,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Orlando Shelter</h3><p>Orlando, FL</p>"
-},
-{
-"name": "Tampa Shelter",
-"xPos": 520,
-"yPos": 320,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Tampa Shelter</h3><p>Tampa, FL</p>"
-},
-{
-"name": "Ocala Shelter",
-"xPos": 560,
-"yPos": 240,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Ocala Shelter</h3><p>Ocala, FL</p>"
-},
-
-{
-"name": "Pensacola Shelter",
-"xPos": 120,
-"yPos": 130,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Pensacola Shelter</h3><p>Pensacola, FL</p>"
-},
-{
-"name": "Tallahassee Shelter",
-"xPos": 260,
-"yPos": 150,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Tallahassee Shelter</h3><p>Tallahassee, FL</p>"
-},
-
-{
-"name": "Treasure Coast Shelter",
-"xPos": 690,
-"yPos": 450,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Treasure Coast Shelter</h3><p>Port St. Lucie, FL</p>"
-},
-{
-"name": "Miami Shelter",
-"xPos": 700,
-"yPos": 640,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Miami Shelter</h3><p>Miami, FL</p>"
-},
-
-{
-"name": "Naples Shelter",
-"xPos": 520,
-"yPos": 600,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Naples Shelter</h3><p>Naples, FL</p>"
-},
-{
-"name": "Fort Myers Shelter",
-"xPos": 540,
-"yPos": 560,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Fort Myers Shelter</h3><p>Fort Myers, FL</p>"
-},
-
-{
-"name": "Daytona Shelter",
-"xPos": 680,
-"yPos": 260,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Daytona Shelter</h3><p>Daytona Beach, FL</p>"
-},
-{
-"name": "Jacksonville Shelter",
-"xPos": 700,
-"yPos": 140,
-"color": "#EFD78D",
-"hoverColor": "#3D6F7A",
-"selectedColor": "#E06026",
-"url": "",
-"text": "<h3>Jacksonville Shelter</h3><p>Jacksonville, FL</p>"
+	"pins": [
+		{
+			"name": "Sample pin",
+			"xPos": 500,
+			"yPos": 344,
+			"color": "#ffc90e",
+			"hoverColor": "#3D6F7A",
+			"selectedColor": "#E06026",
+			"url": "https://jsmaps.io",
+			"text": "<h1>Sample pin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+		}
+	]
 }
-
-]
-};
-
-console.log("Florida map loaded with markers");
- 	
