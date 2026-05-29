@@ -913,7 +913,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Prevention Central",
 			"xPos": 688.2,
-			"yPos": 487.7,
+			"yPos": 467.7,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -923,7 +923,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Lutheran Services Florida-Southeast",
 			"xPos": 689.0,
-			"yPos": 481.3,
+			"yPos": 461.3,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
