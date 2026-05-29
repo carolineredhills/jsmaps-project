@@ -878,99 +878,26 @@ window.JSMaps.maps.florida = {
 			"path": "M252.2,39.7 L281.4,41.9 L305.2,43.7 L303.1,45.2 L303.5,48.1 L296.2,55.3 L294.3,64.1 L292.1,66.8 L283.0,67.9 L271.2,74.3 L268.1,74.3 L268.2,71.2 L265.1,71.1 L265.2,66.5 L259.1,66.5 L259.2,60.2 L256.1,58.6 L250.0,58.5 L250.1,50.8 L245.6,50.6 L247.9,49.3 L252.7,41.1 Z"
 		}
 	],
-		"pins": [
-    {
-      "name": "CDS Family & Behavioral Health (Gainesville)",
-      "x": 469,
-      "y": 141,
-      "text": "<h1>CDS Family & Behavioral Health</h1><p>Gainesville<br>352-244-0618</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Anchorage Children's Home",
-      "x": 175,
-      "y": 86,
-      "text": "<h1>Anchorage Children&#39;s Home</h1><p>Panama City<br>850-784-1020</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Crosswinds Youth Services",
-      "x": 615,
-      "y": 280,
-      "text": "<h1>Crosswinds Youth Services</h1><p>Cocoa<br>321-452-0800</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Youth Crisis Center",
-      "x": 539,
-      "y": 75,
-      "text": "<h1>Youth Crisis Center</h1><p>Jacksonville<br>904-725-6662</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "CDS Family & Behavioral Health (Lake City)",
-      "x": 443,
-      "y": 88,
-      "text": "<h1>CDS Family & Behavioral Health</h1><p>Lake City<br>386-487-0190</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Lutheran Services Florida (Pensacola)",
-      "x": 28,
-      "y": 60,
-      "text": "<h1>Lutheran Services Florida</h1><p>Pensacola<br>850-453-2772</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Youth and Family Alternatives",
-      "x": 437,
-      "y": 290,
-      "text": "<h1>Youth and Family Alternatives</h1><p>Brooksville<br>352-540-601</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Orange County Youth Shelter",
-      "x": 520,
-      "y": 320,
-      "text": "<h1>Orange County Youth Shelter</h1><p>Orlando<br>407-836-6600</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Seminole County Youth Shelter",
-      "x": 525,
-      "y": 300,
-      "text": "<h1>Seminole County Youth Shelter</h1><p>Sanford<br>407-665-5208</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Volusia Family Resource Center",
-      "x": 545,
-      "y": 270,
-      "text": "<h1>Volusia Family Resource Center</h1><p>Daytona Beach<br>386-255-2102</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "St. Johns Youth Services",
-      "x": 555,
-      "y": 240,
-      "text": "<h1>St. Johns Youth Services</h1><p>St. Augustine<br>904-829-2470</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Prevention Central",
-      "x": 668,
-      "y": 518,
-      "text": "<h1>Prevention Central</h1><p>Fort Lauderdale<br>954-763-5010</p>",
-      "color": "#EFD78D"
-    },
-    {
-      "name": "Lutheran Services Florida (Oakland Park)",
-      "x": 669,
-      "y": 514,
-      "text": "<h1>Lutheran Services Florida</h1><p>Oakland Park<br>954-568-2801</p>",
-      "color": "#EFD78D"
-    }
-  ]
+    "markers": [
+{"x": 478.3,"y": 141.9,"text": "<h3>CDS Family & Behavioral Health</h3><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>","color": "#EFD78D","size": 12},
+{"x": 159.9,"y": 73.8,"text": "<h3>Anchorage Children's House</h3><p>2121 Lisenby Ave, Panama City, FL 32405<br/>Shelter Number: 850-784-1020, Non Res Number: 850-763-7102</p>","color": "#EFD78D","size": 12},
+{"x": 636.0,"y": 312.5,"text": "<h3>Crosswinds Youth Services</h3><p>1407 Dixon Blvd, Cocoa, FL 32922<br/>Shelter Phone Number: 321-452-0800</p>","color": "#EFD78D","size": 12},
+{"x": 693.9,"y": 605.2,"text": "<h3>Prevention Central</h3><p>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>Phone Number: 954-763-5010</p>","color": "#EFD78D","size": 12},
+{"x": 694.7,"y": 599.4,"text": "<h3>Lutheran Services Florida- Southeast</h3><p>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number: 954-568-2801<br/>Non Res Phone Number: 954-486-4222</p>","color": "#EFD78D","size": 12},
+
+{"x": 690.2,"y": 650.1,"text": "<h3>Place of Hope</h3><p>Palm Beach Gardens, FL<br/>561-775-7195</p>","color": "#EFD78D","size": 12},
+{"x": 688.0,"y": 665.4,"text": "<h3>Youth Emergency Services</h3><p>West Palm Beach, FL</p>","color": "#EFD78D","size": 12},
+
+{"x": 520.3,"y": 310.2,"text": "<h3>Central Florida Shelter</h3><p>Orlando, FL</p>","color": "#EFD78D","size": 12},
+{"x": 410.2,"y": 300.7,"text": "<h3>Tampa Bay Youth Shelter</h3><p>Tampa, FL</p>","color": "#EFD78D","size": 12},
+{"x": 305.4,"y": 220.6,"text": "<h3>North Central Shelter</h3><p>Ocala, FL</p>","color": "#EFD78D","size": 12},
+
+{"x": 120.7,"y": 110.2,"text": "<h3>Northwest Florida Shelter</h3><p>Pensacola, FL</p>","color": "#EFD78D","size": 12},
+{"x": 210.8,"y": 140.3,"text": "<h3>Capital Area Shelter</h3><p>Tallahassee, FL</p>","color": "#EFD78D","size": 12},
+
+{"x": 580.2,"y": 500.1,"text": "<h3>Treasure Coast Shelter</h3><p>Port St. Lucie, FL</p>","color": "#EFD78D","size": 12},
+{"x": 640.5,"y": 640.8,"text": "<h3>Miami Youth Shelter</h3><p>Miami, FL</p>","color": "#EFD78D","size": 12}
+]
 };
 
 console.log("Florida map loaded with markers");
