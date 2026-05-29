@@ -890,7 +890,7 @@ window.JSMaps.maps.florida = {
       "name": "Anchorage Children's Home",
       "x": 175,
       "y": 86,
-      "text": "<h1>Anchorage Children's Home</h1><p>Panama City<br>850-784-1020</p>",
+      "text": "<h1>Anchorage Children&#39;s Home</h1><p>Panama City<br>850-784-1020</p>",
       "color": "#EFD78D"
     },
     {
