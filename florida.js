@@ -878,25 +878,194 @@ window.JSMaps.maps.florida = {
 			"path": "M252.2,39.7 L281.4,41.9 L305.2,43.7 L303.1,45.2 L303.5,48.1 L296.2,55.3 L294.3,64.1 L292.1,66.8 L283.0,67.9 L271.2,74.3 L268.1,74.3 L268.2,71.2 L265.1,71.1 L265.2,66.5 L259.1,66.5 L259.2,60.2 L256.1,58.6 L250.0,58.5 L250.1,50.8 L245.6,50.6 L247.9,49.3 L252.7,41.1 Z"
 		}
 	],
-    "markers": [
-{"x": 478.3,"y": 141.9,"text": "<h3>CDS Family & Behavioral Health</h3><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>","color": "#EFD78D","size": 12},
-{"x": 159.9,"y": 73.8,"text": "<h3>Anchorage Children's House</h3><p>2121 Lisenby Ave, Panama City, FL 32405<br/>Shelter Number: 850-784-1020, Non Res Number: 850-763-7102</p>","color": "#EFD78D","size": 12},
-{"x": 636.0,"y": 312.5,"text": "<h3>Crosswinds Youth Services</h3><p>1407 Dixon Blvd, Cocoa, FL 32922<br/>Shelter Phone Number: 321-452-0800</p>","color": "#EFD78D","size": 12},
-{"x": 693.9,"y": 605.2,"text": "<h3>Prevention Central</h3><p>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>Phone Number: 954-763-5010</p>","color": "#EFD78D","size": 12},
-{"x": 694.7,"y": 599.4,"text": "<h3>Lutheran Services Florida- Southeast</h3><p>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number: 954-568-2801<br/>Non Res Phone Number: 954-486-4222</p>","color": "#EFD78D","size": 12},
+   "pins": [
+{
+"name": "CDS Family & Behavioral Health",
+"xPos": 610,
+"yPos": 180,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>CDS Family & Behavioral Health</h3><p>Gainesville, FL<br/>352-244-0618</p>"
+},
+{
+"name": "Anchorage Children's Home",
+"xPos": 180,
+"yPos": 150,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Anchorage Children's Home</h3><p>Panama City, FL<br/>850-784-1020</p>"
+},
+{
+"name": "Crosswinds Youth Services",
+"xPos": 700,
+"yPos": 300,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Crosswinds Youth Services</h3><p>Cocoa, FL<br/>321-452-0800</p>"
+},
+{
+"name": "Prevention Central",
+"xPos": 720,
+"yPos": 520,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Prevention Central</h3><p>Fort Lauderdale, FL<br/>954-763-5010</p>"
+},
+{
+"name": "LSF Southeast",
+"xPos": 715,
+"yPos": 510,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>LSF Southeast</h3><p>Oakland Park, FL<br/>954-568-2801</p>"
+},
 
-{"x": 690.2,"y": 650.1,"text": "<h3>Place of Hope</h3><p>Palm Beach Gardens, FL<br/>561-775-7195</p>","color": "#EFD78D","size": 12},
-{"x": 688.0,"y": 665.4,"text": "<h3>Youth Emergency Services</h3><p>West Palm Beach, FL</p>","color": "#EFD78D","size": 12},
+{
+"name": "Place of Hope",
+"xPos": 730,
+"yPos": 560,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Place of Hope</h3><p>Palm Beach Gardens, FL<br/>561-775-7195</p>"
+},
+{
+"name": "Youth Emergency Services",
+"xPos": 735,
+"yPos": 585,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Youth Emergency Services</h3><p>West Palm Beach, FL</p>"
+},
 
-{"x": 520.3,"y": 310.2,"text": "<h3>Central Florida Shelter</h3><p>Orlando, FL</p>","color": "#EFD78D","size": 12},
-{"x": 410.2,"y": 300.7,"text": "<h3>Tampa Bay Youth Shelter</h3><p>Tampa, FL</p>","color": "#EFD78D","size": 12},
-{"x": 305.4,"y": 220.6,"text": "<h3>North Central Shelter</h3><p>Ocala, FL</p>","color": "#EFD78D","size": 12},
+{
+"name": "Orlando Shelter",
+"xPos": 640,
+"yPos": 300,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Orlando Shelter</h3><p>Orlando, FL</p>"
+},
+{
+"name": "Tampa Shelter",
+"xPos": 520,
+"yPos": 320,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Tampa Shelter</h3><p>Tampa, FL</p>"
+},
+{
+"name": "Ocala Shelter",
+"xPos": 560,
+"yPos": 240,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Ocala Shelter</h3><p>Ocala, FL</p>"
+},
 
-{"x": 120.7,"y": 110.2,"text": "<h3>Northwest Florida Shelter</h3><p>Pensacola, FL</p>","color": "#EFD78D","size": 12},
-{"x": 210.8,"y": 140.3,"text": "<h3>Capital Area Shelter</h3><p>Tallahassee, FL</p>","color": "#EFD78D","size": 12},
+{
+"name": "Pensacola Shelter",
+"xPos": 120,
+"yPos": 130,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Pensacola Shelter</h3><p>Pensacola, FL</p>"
+},
+{
+"name": "Tallahassee Shelter",
+"xPos": 260,
+"yPos": 150,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Tallahassee Shelter</h3><p>Tallahassee, FL</p>"
+},
 
-{"x": 580.2,"y": 500.1,"text": "<h3>Treasure Coast Shelter</h3><p>Port St. Lucie, FL</p>","color": "#EFD78D","size": 12},
-{"x": 640.5,"y": 640.8,"text": "<h3>Miami Youth Shelter</h3><p>Miami, FL</p>","color": "#EFD78D","size": 12}
+{
+"name": "Treasure Coast Shelter",
+"xPos": 690,
+"yPos": 450,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Treasure Coast Shelter</h3><p>Port St. Lucie, FL</p>"
+},
+{
+"name": "Miami Shelter",
+"xPos": 700,
+"yPos": 640,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Miami Shelter</h3><p>Miami, FL</p>"
+},
+
+{
+"name": "Naples Shelter",
+"xPos": 520,
+"yPos": 600,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Naples Shelter</h3><p>Naples, FL</p>"
+},
+{
+"name": "Fort Myers Shelter",
+"xPos": 540,
+"yPos": 560,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Fort Myers Shelter</h3><p>Fort Myers, FL</p>"
+},
+
+{
+"name": "Daytona Shelter",
+"xPos": 680,
+"yPos": 260,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Daytona Shelter</h3><p>Daytona Beach, FL</p>"
+},
+{
+"name": "Jacksonville Shelter",
+"xPos": 700,
+"yPos": 140,
+"color": "#EFD78D",
+"hoverColor": "#3D6F7A",
+"selectedColor": "#E06026",
+"url": "",
+"text": "<h3>Jacksonville Shelter</h3><p>Jacksonville, FL</p>"
+}
+
 ]
 };
 
