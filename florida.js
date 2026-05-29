@@ -891,14 +891,44 @@ window.JSMaps.maps.florida = {
 			"text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>"
 		},
 		{
-			"name": "Anchorage Children's House Hidle House",
+			"name": "Anchorage Children's House, Hidle House",
 			"xPos": 179.8,
 			"yPos": 85.6,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
-			"url": "https://www.cdsfl.org/",
-			"text": "<h1>Anchorage Children's House Hidle House</h1><p>Anchorage Children's House Hidle House<br/>Shelter Number: 850-784-1020<br/>Non Res Number: 850-763-7102</p>"
-		}
+			"url": "https://anchoragechildrenshome.org/hidle-house.htm",
+			"text": "<h1>Anchorage Children's House, Hidle House</h1><p>2121 Lisenby Ave, Panama City, FL 32405<br/>Shelter Number: 850-784-1020<br/>Non Res Number: 850-763-7102</p>"
+		},
+		{
+			"name": "Crosswinds Youth Services",
+			"xPos": 631.1,
+			"yPos": 280.0,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://www.crosswindsyouthservices.org/",
+			"text": "<h1>Crosswinds Youth Services</h1><p>1407 Dixon Blvd, Cocoa, FL 32922e<br/>Shelter Phone Number: 321-452-0800</p>"
+		},
+		{
+			"name": "Prevention Central",
+			"xPos": 688.2,
+			"yPos": 497.7,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://preventioncentral.org/",
+			"text": "<h1>Prevention Central</h1><p>1100 W Sunrise Blvd, Fort Lauderdale, FL 33311<br/>Phone Number: 954-763-5010</p>"
+		},
+		{
+			"name": "Lutheran Services Florida-Southeast",
+			"xPos": 689.0,
+			"yPos": 491.3,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://www.lsfnet.org/",
+			"text": "<h1>Lutheran Services Florida- Southeast, Lippman Youth Shelter</h1><p>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number:954-568-2801<br/>Non Res Phone Number: 954-486-4222</p>"
+		},
 	]
 }
