@@ -1223,7 +1223,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Boys Town",
 			"xPos": 591.72,
-			"yPos": 246.78,
+			"yPos": 250.78,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -1233,7 +1233,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Seminole County Sheriff's Office",
 			"xPos": 585.3,
-			"yPos": 237.4,
+			"yPos": 241.4,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
