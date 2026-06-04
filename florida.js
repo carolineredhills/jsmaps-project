@@ -883,7 +883,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "CDS Family & Behavioral Health",
 			"xPos": 481.7,
-			"yPos": 141.0,
+			"yPos": 141.03,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -892,8 +892,8 @@ window.JSMaps.maps.florida = {
 		},
 		{
 			"name": "Anchorage Children's House, Hidle House",
-			"xPos": 179.8,
-			"yPos": 85.6,
+			"xPos": 179.85,
+			"yPos": 85.62,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -902,8 +902,8 @@ window.JSMaps.maps.florida = {
 		},
 		{
 			"name": "Crosswinds Youth Services",
-			"xPos": 631.1,
-			"yPos": 280.0,
+			"xPos": 631.15,
+			"yPos": 279.95,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -912,8 +912,8 @@ window.JSMaps.maps.florida = {
 		},
 		{
 			"name": "Prevention Central",
-			"xPos": 688.2,
-			"yPos": 517.7,
+			"xPos": 685.94,
+			"yPos": 518.31,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -922,8 +922,8 @@ window.JSMaps.maps.florida = {
 		},
 		{
 			"name": "Lutheran Services Florida-Southeast",
-			"xPos": 689.0,
-			"yPos": 511.3,
+			"xPos": 686.7,
+			"yPos": 513.63,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -1278,6 +1278,16 @@ window.JSMaps.maps.florida = {
 			"selectedColor": "#EFD78D",
 			"url": " https://smahealthcare.org/services/residential-services/ ",
 			"text": "<h1>SMA Healthcare Inc., Beach House</h1><p>3875 Tiger Bay Rd, Daytona Beach, FL 32124<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 386-236-3111</p>"
+		},
+		{
+			"name": "Florida Keys Children's Shelter",
+			"xPos": 645.0,
+			"yPos": 638.5,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.fkcs.org/programs/ ",
+			"text": "<h1>SMA Healthcare Inc., Beach House</h1><p>3875 73 High Point Rd, Tavernier, FL 33070<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 305-852-424</p>"
 		}
 	]
 }
