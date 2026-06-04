@@ -930,5 +930,354 @@ window.JSMaps.maps.florida = {
 			"url": "https://www.lsfnet.org/",
 			"text": "<h1>Lutheran Services Florida- Southeast, Lippman Youth Shelter</h1><p>221 NW 43rd Ct, Oakland Park, FL 33309<br/>Shelter Phone Number:954-568-2801<br/>Non Res Phone Number: 954-486-4222</p>"
 		},
+		{
+			"name": "CDS Family & Behavioral Health, Interface NW",
+			"xPos": 454.76,
+			"yPos": 88.05,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://www.cdsfl.org/about-us",
+			"text": "<h1>CDS Family & Behavioral Health, Interface NW</h1><p>1884 SW Grandview St, Lake City, FL 32025<br/>Shelter Phone Number: 386-487-0190</p>"
+		},
+		{
+			"name": "Thaise Educational & Exposure Tours",
+			"xPos": 546.1,
+			"yPos": 71.2,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://thaise.org/",
+			"text": "<h1>Thaise Educational & Exposure Tours</h1><p>728 Blanche St, Jacksonville, FL 32204<br/>Shelter Phone Number: 904-513-3972</p>"
+		},
+		{
+			"name": "Youth Crisis Center",
+			"xPos": 553.15,
+			"yPos": 75.3,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": "https://youthcrisiscenter.org/",
+			"text": "<h1>Youth Crisis Center</h1><p>3015 Parental Home Rd, Jacksonville, FL 32216<br/>Shelter Phone Number: 904-725-6662<br/>Non Res Phone Number: 904-725-6662</p>"
+		},
+		{
+			"name": "Lutheran Services Florida, Currie House",
+			"xPos": 28.33,
+			"yPos": 60.39,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.lsfnet.org/",
+			"text": "<h1>Lutheran Services Florida, Currie House</h1><p>4610 W Fairfield Dr, Pensacola, FL 32506<br/>Shelter Number: 850-453-2772<br/>Non Res Number: 850-453-2772</p>"
+		},
+		{
+			"name": "Youth and Family Alternatives, New Beginnings Youth Shelter",
+			"xPos": 448.51,
+			"yPos": 290.17,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://yfainc.org/ ",
+			"text": "<h1>Youth and Family Alternatives, New Beginnings Youth Shelter</h1><p>18377 Sheriff Mylander Wy, Brooksville, FL 34601<br/>Shelter Phone Number: 352-540-601</p>"
+		},
+		{
+			"name": "Hillsborough County Children's Services",
+			"xPos": 470.47,
+			"yPos": 312.31,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://hcfl.gov/departments/children ",
+			"text": "<h1>Hillsborough County Children's Services</h1><p>3191 Clay Mangum Ln, Tampa, FL 33618<br/>Shelter Phone Number: 813-264-3807<br/>Non Res Phone Number: 813-264-3807</p>"
+		},
+		{
+			"name": "Tampa Housing Authority",
+			"xPos": 467.01,
+			"yPos": 324.77,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://thafl.com/ ",
+			"text": "<h1>Tampa Housing Authority</h1><p>5301 W Cypress St, Tampa, FL 33607<br/>Shelter Phone Number: 813-341-9101, ext. 2201</p>"
+		},
+		{
+			"name": "Youth Advocate Program",
+			"xPos": 476.03,
+			"yPos": 323.69,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.yapinc.org/ ",
+			"text": "<h1>Youth Advocate Program</h1><p>2115 N 22nd St, Tampa, FL 33605<br/>Shelter Phone Number: 813-712-9695</p>"
+		},
+		{
+			"name": "Lutheran Services Florida Southwest, Oasis Youth Shelter",
+			"xPos": 528.62,
+			"yPos": 467.79,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.lsfnet.org/ ",
+			"text": "<h1>Lutheran Services Florida Southwest, Oasis Youth Shelter</h1><p>3642 Central Ave, Fort Myers, FL 33901<br/>Shelter Phone Number: 239-278-1030<br/>Non Res Phone Number: 239-278-1030</p>"
+		},
+			{
+			"name": "Capital City Youth Services",
+			"xPos": 301.69,
+			"yPos": 60.87,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.ccys.org/ ",
+			"text": "<h1>Capital City Youth Services</h1><p>2407 Roberts Ave, Tallahassee, FL 32310<br/>Shelter Number: 850-576-6000<br/>Non Res Number: 850-576-6000</p>"
+		},
+			{
+			"name": "Family Resources, SafePlace2B Bradenton",
+			"xPos": 463.38,
+			"yPos": 373.85,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://familyresourcesinc.org/ ",
+			"text": "<h1>Family Resources, SafePlace2B Bradenton</h1><p>1001 9th Ave W, Bradenton, FL 34205<br/>Shelter Phone Number: 941-708-5850<br/>Non Res Phone Number: 727-298-3900</p>"
+		},
+			{
+			"name": "Arnette House",
+			"xPos": 598.94,
+			"yPos": 190.93,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://arnettehouse.org/ ",
+			"text": "<h1>Arnette House</h1><p>2310 NE 24th St, Ocala, FL 34470<br/>Shelter Phone Number: 352-622-6135<br/>Non Res Phone Number: 727-298-3900</p>"
+		},
+			{
+			"name": "Miami Bridge, Homestead/South Dade",
+			"xPos": 655.86,
+			"yPos": 589.01,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://miamibridge.org/ ",
+			"text": "<h1>Miami Bridge, Homestead/South Dade</h1><p>326 NW 3rd Ave, Homestead, FL 33030<br/>Shelter Phone Number: 305-246-8956</p>"
+		},
+		{
+			"name": "Center for Family & Child Enrichment",
+			"xPos": 679.1,
+			"yPos": 540.6,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://cfcecares.org/ ",
+			"text": "<h1>Center for Family & Child Enrichment</h1><p>1825 NW 167th St, Miami Gardens, FL 33056<br/>Shelter Phone Number: 305-624-7450</p>"
+		},
+		{
+			"name": "Miami Bridge Central",
+			"xPos": 678.12,
+			"yPos": 554.89,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://miamibridge.org/ ",
+			"text": "<h1>Miami Bridge Central</h1><p>2810 NW S River Dr, Miami, FL 33125<br/>Shelter Phone Number: 305-635-8953</p>"
+		},
+		{
+			"name": "Lutheran Services Florida, HOPE House",
+			"xPos": 95.6,
+			"yPos": 25.48,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.lsfnet.org/ ",
+			"text": "<h1>Lutheran Services Florida, HOPE House</h1><p>5127 Eastland St, Crestview, FL 32539<br/>Shelter Phone Number: 850-682-2374</p>"
+		},
+		{
+			"name": "Nehemiah Educational and Economic Development Inc.",
+			"xPos": 572.7,
+			"yPos": 255.23,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.needincfla.org/ ",
+			"text": "<h1>Nehemiah Educational and Economic Development Inc.</h1><p>611 Wymore Rd, Winter Park, FL 32789<br/>Shelter Phone Number: 407-622-6200<br/>Non Res Phone Number: 407-622-6200</p>"
+		},
+		{
+			"name": "Thaise Educational & Exposure Tours",
+			"xPos": 569.77,
+			"yPos": 263.17,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://thaise.org/ ",
+			"text": "<h1>Thaise Educational & Exposure Tours</h1><p>927 S Goldwyn Ave, Orlando, FL 32805<br/>Shelter Phone Number: 407-674-7911</p>"
+		},
+		{
+			"name": "Orange County Family Counseling Services",
+			"xPos": 575.31,
+			"yPos": 265.02,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.orangecountyfl.net/ ",
+			"text": "<h1>Orange County Family Counseling Services</h1><p>91800 E Michigan St, Orlando, FL 32806<br/>Shelter Phone Number: 407-836-7626</p>"
+		},
+		{
+			"name": "Children's Home Society, Safe Harbor",
+			"xPos": 691.1,
+			"yPos": 463.6,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://chsfl.org/ ",
+			"text": "<h1>Children's Home Society, Safe Harbor</h1><p>3335 Forest Hill Blvd, Palm Springs, FL 33406<br/>Shelter Phone Number: 561-868-4444</p>"
+		},
+		{
+			"name": "Urban League, Palm Beach County",
+			"xPos": 691.76,
+			"yPos": 463.47,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://ulpbc.org/ ",
+			"text": "<h1>Urban League, Palm Beach County</h1><p>1700 Australian Ave, West Palm Beach, FL 33404<br/>Non Res Phone Number: 561-833-1461</p>"
+		},
+		{
+			"name": "Center for Child Counseling",
+			"xPos": 690.6,
+			"yPos": 446.9,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.centerforchildcounseling.org/ ",
+			"text": "<h1>Center for Child Counseling</h1><p>8895 N Military Trl #300C, West Palm Beach, FL 33410<br/>Phone Number: 561-244-9499</p>"
+		},
+		{
+			"name": "Youth and Family Alternatives, RAP House",
+			"xPos": 452.47,
+			"yPos": 294.26,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://yfainc.org/ ",
+			"text": "<h1>Youth and Family Alternatives, RAP House</h1><p>7522 Plathe Road, Elfers, FL 34653<br/>Shelter Phone Number: 727-835-1777</p>"
+		},
+		{
+			"name": "Family Resources, SafePlace2B Clearwater",
+			"xPos": 444.98,
+			"yPos": 320,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://familyresourcesinc.org/ ",
+			"text": "<h1>Family Resources, SafePlace2B Clearwater</h1><p>1615 Union St, Clearwater, FL 33755<br/>Shelter Phone Number: 727-298-1606<br/>Non Res Phone Number: 727-298-3900</p>"
+		},
+		{
+			"name": "Family Resources, SafePlace2B St. Petersburg",
+			"xPos": 452.93,
+			"yPos": 343.43,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://familyresourcesinc.org/ ",
+			"text": "<h1>Family Resources, SafePlace2B St. Petersburg</h1><p>3821 5th Ave N, St. Petersburg, FL 33713<br/>Shelter Phone Number: 727-893-1893<br/>Non Res Phone Number: 727-552-1010</p>"
+		},
+		{
+			"name": "Thaise Educational & Exposure Tours",
+			"xPos": 456.18,
+			"yPos": 346.12,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://thaise.org/ ",
+			"text": "<h1>Thaise Educational & Exposure Tours</h1><p>1111 18th Ave S, St. Petersburg, FL 33705<br/>Shelter Phone Number: 727-821-7951</p>"
+		},
+		{
+			"name": "Bethel Community Foundation",
+			"xPos": 454.13,
+			"yPos": 349.47,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.bethelcommunity.org/ ",
+			"text": "<h1>Bethel Community Foundation</h1><p>2901 54th Ave S, St. Petersburg, FL 33712<br/>Non Res Phone Number: 727-866-2747</p>"
+		},
+		{
+			"name": "Youth and Family Alternatives, GW Harris Runaway and Youth Crisis Center",
+			"xPos": 531.94,
+			"yPos": 331.72,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://yfainc.org/  ",
+			"text": "<h1>Youth and Family Alternatives, GW Harris Runaway and Youth Crisis Center</h1><p>1060 US-17, Bartow, FL 33830<br/>Shelter Phone Number: 863-595-0220</p>"
+		},
+		{
+			"name": "CDS Family & Behavioral Health, Interface East",
+			"xPos": 547.5,
+			"yPos": 144.9,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.cdsfl.org/ ",
+			"text": "<h1>CDS Family & Behavioral Health, Interface East</h1><p>2919 Kennedy St, Palatka, FL 32177<br/>Shelter Phone Number: 386-385-0405</p>"
+		},
+		{
+			"name": "Boys Town",
+			"xPos": 591.72,
+			"yPos": 246.78,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.boystown.org/central-florida ",
+			"text": "<h1>Boys Town</h1><p>975 Oklahoma St, Oviedo, FL 32765<br/>Shelter Phone Number:  407-588-2170</p>"
+		},
+		{
+			"name": "Seminole County Sheriff's Office",
+			"xPos": 585.3,
+			"yPos": 227.4,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://www.seminolesheriff.org/ ",
+			"text": "<h1>Seminole County Sheriff's Office</h1><p>1151 E 28th St, Sanford, FL 32773<br/>Shelter Phone Number: 407-708-7671</p>"
+		},
+		{
+			"name": "Children's Home Society, Wavecrest",
+			"xPos": 584.73,
+			"yPos": 446.9,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://chsfl.org/ ",
+			"text": "<h1>Seminole County Sheriff's Office</h1><p>4520 Selvitz Rd, Fort Pierce, FL 34981<br/>Shelter Phone Number: 772-460-9752</p>"
+		},
+		{
+			"name": "Urban League, Westside Baptist Church of Fort Pierce",
+			"xPos": 665.13,
+			"yPos": 382.86,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"text": "<h1>Urban League, Westside Baptist Church of Fort Pierce</h1><p>3361 S Jenkins Road Fort Pierce, FL 34981<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 561-833-1461</p>"
+		},
+		{
+			"name": "Safe Children Coalition, Sarasota Youth Shelter",
+			"xPos": 468.75,
+			"yPos": 389.89,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://sccfl.org/ ",
+			"text": "<h1>Safe Children Coalition, Sarasota Youth Shelter</h1><p>2841 6th St, Sarasota, FL 34237<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 2841 6th St, Sarasota, FL 34237</p>"
+		},
+		{
+			"name": "SMA Healthcare Inc., Beach House",
+			"xPos": 594.26,
+			"yPos": 197.57,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://smahealthcare.org/services/residential-services/ ",
+			"text": "<h1>SMA Healthcare Inc., Beach House</h1><p>3875 Tiger Bay Rd, Daytona Beach, FL 32124<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 386-236-3111</p>"
+		}
 	]
 }
