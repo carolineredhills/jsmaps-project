@@ -1093,7 +1093,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Nehemiah Educational and Economic Development Inc.",
 			"xPos": 572.7,
-			"yPos": 255.23,
+			"yPos": 260.23,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -1103,7 +1103,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Thaise Educational & Exposure Tours",
 			"xPos": 569.77,
-			"yPos": 263.17,
+			"yPos": 267.17,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
@@ -1113,7 +1113,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Orange County Family Counseling Services",
 			"xPos": 575.31,
-			"yPos": 265.02,
+			"yPos": 270.02,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
