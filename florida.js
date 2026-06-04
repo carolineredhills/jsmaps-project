@@ -1282,7 +1282,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Florida Keys Children's Shelter",
 			"xPos": 645.0,
-			"yPos": 638.5,
+			"yPos": 650.5,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
