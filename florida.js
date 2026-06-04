@@ -888,7 +888,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
 			"url": "https://www.cdsfl.org/",
-			"text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618</p>"
+			"text": "<h1>CDS Family & Behavioral Health</h1><p>1400 NW 29 Rd, Gainesville, FL 32605<br/>Shelter Phone Number: 352-244-0618<br/><a href='https://www.cdsfl.org/'target='_blank'>Visit Website</a></p>"
 		},
 		{
 			"name": "Anchorage Children's House, Hidle House",
