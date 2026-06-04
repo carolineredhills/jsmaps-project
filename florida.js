@@ -1233,7 +1233,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Seminole County Sheriff's Office",
 			"xPos": 585.3,
-			"yPos": 227.4,
+			"yPos": 237.4,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
