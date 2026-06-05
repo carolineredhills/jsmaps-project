@@ -1242,8 +1242,8 @@ window.JSMaps.maps.florida = {
 		},
 		{
 			"name": "Children's Home Society, Wavecrest",
-			"xPos": 584.73,
-			"yPos": 446.9,
+			"xPos": 670,
+			"yPos": 400.9,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
