@@ -1262,7 +1262,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Safe Children Coalition, Sarasota Youth Shelter",
 			"xPos": 468.75,
-			"yPos": 389.89,
+			"yPos": 395.89,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
