@@ -1042,7 +1042,7 @@ window.JSMaps.maps.florida = {
 		},
 			{
 			"name": "Arnette House",
-			"xPos": 598.94,
+			"xPos": 491.7,
 			"yPos": 190.93,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
