@@ -1101,6 +1101,16 @@ window.JSMaps.maps.florida = {
 			"text": "<h1>Nehemiah Educational and Economic Development Inc.</h1><p>611 Wymore Rd, Winter Park, FL 32789<br/>Shelter Phone Number: 407-622-6200<br/>Community Counseling Phone Number: 407-622-6200<br/><a href='https://www.needincfla.org/'target='_blank'>Visit Website</a></p>"
 		},
 		{
+			"name": "Children's Home Society",
+			"xPos": 572.7,
+			"yPos": 290.23,
+			"color": "#EFD78D",
+			"hoverColor": "#183E6D",
+			"selectedColor": "#EFD78D",
+			"url": " https://chsfl.org/locations/treasure-coast/ ",
+			"text": "<h1>Children's Home Society, Osceola</h1><p>5768 South Semoran Blvd. Orlando, FL 32822<br/>Phone Number: 407-864-5220<br/><a href='https://chsfl.org/locations/treasure-coast/'target='_blank'>Visit Website</a></p>"
+		},
+		{
 			"name": "Thaise Educational & Exposure Tours",
 			"xPos": 569.77,
 			"yPos": 267.17,
