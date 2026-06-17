@@ -1103,7 +1103,7 @@ window.JSMaps.maps.florida = {
 		{
 			"name": "Children's Home Society",
 			"xPos": 572.7,
-			"yPos": 290.23,
+			"yPos": 310.23,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
