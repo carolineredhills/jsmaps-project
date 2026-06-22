@@ -1261,13 +1261,13 @@ window.JSMaps.maps.florida = {
 			"text": "<h1>Children's Home Society, Wavecrest</h1><p>4520 Selvitz Rd, Fort Pierce, FL 34981<br/>Shelter Phone Number: 772-460-9752<br/><a href='https://chsfl.org/'target='_blank'>Visit Website</a></p>"
 		},
 		{
-			"name": "Urban League, Westside Baptist Church of Fort Pierce",
+			"name": "Prevention Central",
 			"xPos": 665.13,
 			"yPos": 382.86,
 			"color": "#EFD78D",
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
-			"text": "<h1>Urban League, Westside Baptist Church of Fort Pierce</h1><p>3361 S Jenkins Road Fort Pierce, FL 34981<br/>Youth Center Building C, Suite C1<br/>Shelter Phone Number: 561-833-1461</p>"
+			"text": "<h1>Prevention Central</h1><p>3361 S Jenkins Road Fort Pierce, FL 34981<br/>Shelter Phone Number: 561-833-1461<br/><a href='https://preventioncentral.org/'target='_blank'>Visit Website</a></p>"
 		},
 		{
 			"name": "Safe Children Coalition, Sarasota Youth Shelter",
