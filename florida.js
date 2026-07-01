@@ -1248,7 +1248,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#EFD78D",
 			"url": " https://www.seminolesheriff.org/ ",
-			"text": "<h1>Seminole County Sheriff's Office</h1><p>1151 E 28th St, Sanford, FL 32773<br/>Shelter Phone Number: 407-708-7671<br/><a href='https://www.seminolesheriff.org/'target='_blank'>Visit Website</a></p>"
+			"text": "<h1>Seminole County Sheriff's Office</h1><p>1151 E 28th St, Sanford, FL 32773<br/>Shelter Phone Number: 407-708-7640<br/><a href='https://www.seminolesheriff.org/'target='_blank'>Visit Website</a></p>"
 		},
 		{
 			"name": "Children's Home Society, Wavecrest",
