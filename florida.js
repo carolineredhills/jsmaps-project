@@ -771,7 +771,7 @@ window.JSMaps.maps.florida = {
 			"hoverColor": "#183E6D",
 			"selectedColor": "#97B693",
 			"url": "https://jsmaps.io/",
-			"text": "<h1>Union</h1><p>Services are available in this county. Please see neighboring counties for the nearest program location.</p>",
+			"text": "<h1>Union</h1><p>CDS Family and Behavioral Health Services<br/>1884 SW Grandview St, Lake City, FL 32025<br/>386-487-0190</p>",
 			"path": "M474.9,126.2 L466.4,123.8 L464.7,124.2 L460.5,118.9 L463.3,115.9 L465.8,110.0 L471.6,106.9 L471.3,103.6 L480.4,103.2 L500.3,103.0 L499.9,106.5 L492.7,114.5 L489.5,115.1 L485.1,122.7 L481.9,122.2 L481.4,124.2 Z"
 		},
 		{
